@@ -1,0 +1,129 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2018.06.04 09:08:28 =~=~=~=~=~=~=~=~=~=~=~=
+show client summary 
+
+Number of Clients................................ 95
+
+                                                       RLAN/
+MAC Address       AP Name           Slot Status        WLAN  Auth Protocol         Port Wired PMIPV6 Role
+----------------- ----------------- ---- ------------- ----- ---- ---------------- ---- ----- ------ ----------------
+00:1c:bf:bb:7e:98 CENTRO-II          0   Associated     3    Yes  802.11g          1    N/A   No     Local           
+00:22:fa:7a:5d:6e ATRIUM-PISO-4      0   Associated     1    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+00:23:15:ca:16:8c ATRIUM-PISO-3      0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+00:34:da:36:4b:e5 ATRIUM-PISO-4      0   Associated     1    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+04:d6:aa:91:80:c4 CENTRO-II          0   Associated     4    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+08:3e:8e:08:e8:d9 CENTROI-OPERACIONES  0   Associated     4    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+10:02:b5:8b:2f:0e CENTRO-I           0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+10:02:b5:af:b6:e9 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+10:02:b5:b2:94:a9 ATRIUM-PISO-3      1   Associated     3    Yes  802.11ac(5 GHz)  1    N/A   No     Local           
+10:02:b5:b3:22:70 CENTRO-I           0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+
+
+Would you like to display more entries? (y/n) y
+
+10:02:b5:b3:22:98 CENTRO-II          0   Associated     3    No   802.11n(2.4 GHz) 1    N/A   No     Unassociated    
+10:4a:7d:a5:b4:41 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+10:4a:7d:a5:b9:55 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+10:4a:7d:a5:b9:73 CENTROI-OPERACIONES  0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+10:4a:7d:a5:ee:39 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+10:4a:7d:a5:ee:52 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+10:4a:7d:a5:ee:bb ATRIUM-PISO-4      0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+10:4a:7d:a6:06:08 CENTROI-OPERACIONES  0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+10:4a:7d:a6:0f:d1 ATRIUM-PISO-3      0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+10:4a:7d:a6:13:a0 CENTRO-I           0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+14:ab:c5:59:c1:71 CENTRO-I           1   Associated     3    Yes  802.11ac(5 GHz)  1    N/A   No     Local           
+18:65:90:0a:88:0e ATRIUM-PISO-3      1   Associated     4    Yes  802.11ac(5 GHz)  1    N/A   No     Local           
+28:16:ad:f1:f1:3a CENTRO-I           1   Associated     3    Yes  802.11ac(5 GHz)  1    N/A   No     Local           
+28:16:ad:f4:e5:ed ATRIUM-SOTANO      1   Associated     3    Yes  802.11ac(5 GHz)  1    N/A   No     Local           
+28:27:bf:db:df:1d ATRIUM-PISO-4      0   Authenticated  4    No   802.11n(2.4 GHz) 1    N/A   No     Unassociated    
+
+
+Would you like to display more entries? (y/n) y
+
+28:b2:bd:76:02:4b ATRIUM-PISO-3      0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+28:b2:bd:76:37:ac CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+34:f3:9a:85:dc:ac ATRIUM-SOTANO      0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+34:f3:9a:bc:8d:51 CENTRO-I           0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+44:85:00:50:ab:c7 CENTRO-I           0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+48:45:20:b6:45:63 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+48:45:20:b6:48:01 ATRIUM-PISO2       0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+48:45:20:b6:c3:2b CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+48:45:20:b7:07:dc CENTRO-I           0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+4c:34:88:53:19:9d ATRIUM-SOTANO      0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+4c:34:88:53:1a:a6 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+4c:34:88:53:45:99 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+4c:34:88:53:45:fd ATRIUM-PISO-4      1   Associated     3    Yes  802.11ac(5 GHz)  1    N/A   No     Local           
+4c:34:88:53:97:9c ATRIUM-PISO-4      0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+4c:4e:03:47:54:32 CENTROI-OPERACIONES  0   Authenticated  4    No   802.11n(2.4 GHz) 1    N/A   No     Unassociated    
+
+
+Would you like to display more entries? (y/n) y
+
+54:f2:01:76:7a:a1 CENTRO-II          0   Associated     4    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+5c:e0:c5:95:a6:d2 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+6c:8d:c1:4f:77:82 CENTRO-II          1   Associated     5    Yes  802.11ac(5 GHz)  1    N/A   No     Local           
+70:18:8b:b9:cf:8c CENTROI-OPERACIONES  1   Associated     4    Yes  802.11n(5 GHz)   1    N/A   No     Local           
+74:e5:0b:24:bb:72 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+74:e5:0b:24:bb:74 CENTRO-II          0   Associated     3    No   802.11n(2.4 GHz) 1    N/A   No     Unassociated    
+74:e5:0b:86:bf:6e CENTROI-OPERACIONES  0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+74:e5:0b:86:f8:cc CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+74:e5:0b:b7:de:fe CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+74:e5:0b:ed:c5:d2 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+74:e5:0b:f0:97:70 CENTROI-OPERACIONES  0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+78:4f:43:a3:fb:fc ATRIUM-PISO2       0   Associated     4    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+7c:2e:dd:e9:e4:d2 CENTRO-II          0   Pending        4    No   802.11n(2.4 GHz) 1    N/A   No     Unassociated    
+80:9b:20:6b:25:5c CENTRO-II          0   Associated     3    No   802.11n(2.4 GHz) 1    N/A   No     Unassociated    
+84:98:66:17:0a:db ATRIUM-PISO-4      0   Authenticated  4    No   802.11n(2.4 GHz) 1    N/A   No     Unassociated    
+
+
+Would you like to display more entries? (y/n) y
+
+84:c7:ea:e3:95:f0 CENTRO-II          0   Associated     4    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+90:b6:86:6c:da:a7 CENTRO-II          1   Associated     4    Yes  802.11ac(5 GHz)  1    N/A   No     Local           
+9c:4e:36:97:ad:f4 CENTROI-OPERACIONES  0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+9c:4e:36:97:b2:34 CENTRO-I           0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+9c:4e:36:a1:12:00 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+9c:4e:36:a1:6e:e0 CENTRO-I           0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+9c:4e:36:a1:6f:00 CENTROI-OPERACIONES  0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+9c:4e:36:a1:eb:90 ATRIUM-PISO2       0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+9c:4e:36:a1:fa:b8 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+9c:4e:36:a3:12:4c ATRIUM-PISO2       0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+9c:ad:97:dd:ae:07 CENTRO-II          0   Associated     4    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+a4:4e:31:8a:df:9c ATRIUM-PISO-4      1   Associated     3    Yes  802.11n(5 GHz)   1    N/A   No     Local           
+a4:4e:31:e3:64:10 CENTRO-I           0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+a4:4e:31:e3:74:58 ATRIUM-SOTANO      0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+a4:4e:31:e3:74:ac ATRIUM-PISO-3      0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+
+
+Would you like to display more entries? (y/n) y
+
+a4:4e:31:e3:76:20 ATRIUM-PISO-3      0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+a4:4e:31:e3:82:90 ATRIUM-PISO-3      0   Associated     3    No   802.11n(2.4 GHz) 1    N/A   No     Unassociated    
+a4:4e:31:e5:f6:d4 CENTRO-I           0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+a4:4e:31:e6:16:b8 CENTRO-I           0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+ac:2b:6e:a2:83:bb ATRIUM-PISO-4      1   Associated     3    Yes  802.11ac(5 GHz)  1    N/A   No     Local           
+ac:ee:9e:69:80:ee CENTRO-I           0   Associated     4    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+b4:bf:f6:3f:2d:93 CENTRO-II          0   Associated     4    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+b8:1d:aa:f5:0d:af CENTRO-I           0   Authenticated  4    No   802.11n(2.4 GHz) 1    N/A   No     Unassociated    
+cc:29:f5:4f:db:de CENTRO-I           1   Associated     4    Yes  802.11ac(5 GHz)  1    N/A   No     Local           
+cc:79:4a:47:da:f2 CENTRO-II          0   Associated     4    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+cc:79:4a:4a:90:ab CENTRO-II          0   Associated     4    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+cc:79:4a:85:34:a4 CENTROI-OPERACIONES  0   Authenticated  4    No   802.11n(2.4 GHz) 1    N/A   No     Unassociated    
+d0:59:e4:50:09:a7 CENTRO-II          0   Associated     4    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+d0:c5:f3:8f:a8:ee CENTRO-I           1   Associated     4    Yes  802.11ac(5 GHz)  1    N/A   No     Local           
+d0:c5:f3:91:6f:5e CENTRO-I           1   Associated     4    Yes  802.11ac(5 GHz)  1    N/A   No     Local           
+
+
+Would you like to display more entries? (y/n) y
+
+e0:94:67:0e:de:00 CENTRO-I           0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+e0:9d:31:30:11:68 ATRIUM-PISO-3      0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+e0:9d:31:30:13:10 CENTROI-OPERACIONES  0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+e0:9d:31:30:18:b8 ATRIUM-PISO2       0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+e0:9d:31:33:bd:20 ATRIUM-PISO-3      0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+e0:9d:31:3f:7d:08 CENTRO-II          0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+e8:50:8b:d5:66:2b ATRIUM-PISO-4      0   Associated     1    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+f0:43:47:9f:0c:c5 CENTRO-II          0   Associated     4    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+f0:d5:bf:30:e2:65 ATRIUM-PISO-4      0   Associated     3    Yes  802.11n(2.4 GHz) 1    N/A   No     Local           
+
+
+(Cisco Controller) >

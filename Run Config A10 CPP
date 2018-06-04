@@ -1,0 +1,493 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2018.06.04 08:11:58 =~=~=~=~=~=~=~=~=~=~=~=
+ac
+A10-CPP-43438#active-partition NHDL
+Get partition 'NHDL': Partition does not exist.
+A10-CPP-43438#active-partition NHDL  LD
+Currently active partition: NHLD
+A10-CPP-43438[NHLD]#sh
+A10-CPP-43438[NHLD]#show roun   run   un
+!Current configuration: 6142 bytes
+!
+!Configuration last updated at 14:45:36 CST Wed Nov 22 2017
+!Configuration last saved at 14:45:39 CST Wed Nov 22 2017
+!
+active-partition NHLD
+class-list cl_bdf_dns  
+ 0.0.0.0 /0 lid 10
+!
+access-list 150 permit ip host 172.50.30.16 any 
+access-list 151 permit ip host 172.50.30.2 any 
+ip access-list NO_PING 
+ deny icmp any any 
+ deny tcp any any eq 23 
+ permit ip any any 
+!
+!
+
+
+interface ethernet 1
+ ip address 172.50.30.1 255.255.255.0
+ ip nat inside
+--MORE--         access-list name NO_PING in
+!
+interface ethernet 2
+ ip address 165.98.74.38 255.255.255.252
+ ip nat outside
+ access-list name NO_PING in
+ name "CNX-ISP-TELEFONICA" 
+!
+ip route 200.6.55.254 /32 165.98.74.38
+ip route 200.6.55.250 /32 165.98.74.37
+!
+!
+!
+!
+!
+!
+!
+router bgp 27905
+ bgp log-neighbor-changes
+ maximum-paths 2
+ network 200.6.55.0/24
+ network 200.6.55.105/32
+--MORE--         network 200.6.55.106/32
+ redistribute vip only-flagged
+ neighbor 165.98.74.37 remote-as 28036
+ neighbor 165.98.74.37 description TELEFONICA
+ neighbor 165.98.74.37 update-source ethernet 2
+ neighbor 165.98.74.37 soft-reconfiguration inbound
+ neighbor 165.98.74.37 route-map AS_PATH out
+ distance 100 200.6.55.12/32 
+ distance 20 200.6.55.105/32 
+ distance 20 200.6.55.106/32 
+!
+!
+!
+!
+route-map AS_PATH permit 1
+ set as-path prepend 27905 27905 27905
+!
+
+!
+ip nat allow-static-host 
+!
+ip nat pool Nat_correo 200.6.55.96 200.6.55.96 netmask /32  
+--MORE--        ip nat pool Nat_Vpn 200.6.55.105 200.6.55.105 netmask /32  
+ip nat inside source list 150 pool Nat_correo
+ip nat inside source list 151 pool Nat_Vpn
+!
+health monitor MonitorHttp
+ method http
+!
+health monitor MonitorTCP_443
+ method tcp port 443
+!
+health monitor hm_TCP_25
+ method tcp port 25
+!
+health monitor hm_DNS
+ method dns domain www.bdfnet.com
+!
+health monitor hm_TCP_8093
+ method tcp port 80
+!
+health monitor Test
+
+!
+--MORE--        extended-stats
+!
+slb server SevicioWeb1 172.50.30.130
+   no health-check
+   port 80  tcp
+       health-check MonitorHttp
+   port 443  tcp
+       health-check MonitorTCP_443
+   port 8093  tcp
+       health-check hm_TCP_8093
+!
+slb server ServicioIbdf 172.50.30.141
+   no health-check
+   port 443  tcp
+       health-check MonitorTCP_443
+!
+slb server ServicioSSlvpn 172.50.30.131
+   no health-check
+   port 0  tcp
+   port 443  tcp
+!
+slb server bdfmail1 172.50.30.136
+--MORE--           no health-check
+   port 0  tcp
+       disable
+       health-check hm_TCP_25
+   port 25  tcp
+       health-check hm_TCP_25
+!
+slb server Serviciomail 172.50.30.138
+   no health-check
+   port 0  tcp
+       health-check hm_TCP_25
+!
+slb server ServicioMdm 172.50.30.143
+   health-check MonitorTCP_443
+   port 0  tcp
+       no health-check
+!
+slb server SevicioVpn 172.50.30.144
+   disable
+   no health-check
+   port 0  tcp
+!
+--MORE--        slb server ServicioRDS 172.50.30.137
+   health-check MonitorTCP_443
+   port 0  tcp
+       no health-check
+       extended-stats
+!
+slb server RHI_tEST 172.50.30.145
+   disable
+   no health-check
+   port 0  tcp
+       no health-check
+!
+slb server RHI_tEST2 172.50.30.146
+   no health-check
+   port 0  tcp
+   port 80  tcp
+!
+slb server ServicioDNS 172.50.30.132
+   no health-check
+   conn-limit 10000
+   port 53  udp
+       health-check hm_DNS
+--MORE--               conn-limit 10000
+!
+slb server ServicioChat_ibdf 172.50.30.147
+   no health-check
+   conn-limit 20000
+   port 0  tcp
+       no health-check
+       conn-limit 20000
+!
+slb service-group GrupoServicioWeb tcp
+    member SevicioWeb1:80
+!
+!
+slb service-group GrupoServicioIbdf tcp
+    member ServicioIbdf:443
+!
+!
+slb service-group GrupoServicioSslvpn tcp
+    member ServicioSSlvpn:443
+!
+!
+slb service-group GrupoBdfmail tcp
+--MORE--            member bdfmail1:0
+!
+!
+slb service-group GrupoMail tcp
+    member bdfmail1:25
+!
+!
+slb service-group GrupoMdm tcp
+    member ServicioMdm:0
+!
+!
+slb service-group GrupoVpn tcp
+    member SevicioVpn:0
+!
+!
+slb service-group GrupoRDS tcp
+    member ServicioRDS:0
+!
+!
+slb service-group GrupoServicioWebRHI_TEST tcp
+    member RHI_tEST:0
+!
+--MORE--        !
+slb service-group GrupoServicioWebRHI_TEST2 tcp
+    member RHI_tEST2:80
+!
+!
+slb service-group Grupo_DNS udp
+    member ServicioDNS:53
+!
+!
+slb service-group GrupoChat tcp
+    member ServicioChat_ibdf:0
+!
+!
+slb service-group GrupoServicioWebtucasa tcp
+    member SevicioWeb1:8093
+!
+!
+slb template dns bdf_daf
+    malformed-query drop
+    class-list name cl_bdf_dns
+    class-list lid 10
+      dns cache-enable
+--MORE--              conn-rate-limit 10000 per 1
+slb virtual-server VipRds 200.6.55.97
+   port 0  tcp
+      name _200.6.55.97_TCP_0
+      service-group GrupoRDS
+      syn-cookie 
+      conn-limit 20000
+!
+!
+slb virtual-server Vip_Bdfmail 200.6.55.96
+   port 0  tcp
+      service-group GrupoMail
+      syn-cookie 
+      conn-limit 20000
+!
+!
+slb virtual-server Vip_ibdf 200.6.55.101
+   port 443  tcp
+      service-group GrupoServicioIbdf
+      syn-cookie 
+      conn-limit 20000
+!
+--MORE--        !
+slb virtual-server Vip_DNS 200.6.55.12
+   disable when-all-ports-down
+   redistribution-flagged
+   port 53  dns-udp
+      service-group Grupo_DNS
+      template dns bdf_daf
+!
+!
+slb virtual-server Vip_mdm 200.6.55.103
+   port 0  tcp
+      name _200.6.55.103_TCP_0
+      service-group GrupoMdm
+      syn-cookie 
+      conn-limit 20000
+!
+!
+slb virtual-server Vip_Sslvpn 200.6.55.91
+   port 443  tcp
+      name _200.6.55.91_TCP_0
+      service-group GrupoServicioSslvpn
+      syn-cookie 
+--MORE--              conn-limit 20000
+!
+!
+slb virtual-server Vip_Chat_ibdf 200.6.55.71
+   port 0  tcp
+      service-group GrupoChat
+      syn-cookie 
+      conn-limit 20000
+!
+!
+slb virtual-server Vp_Web 200.6.55.90
+   disable when-all-ports-down
+   redistribution-flagged
+   port 80  tcp
+      service-group GrupoServicioWeb
+      syn-cookie 
+      conn-limit 20000
+   port 8093  tcp
+      service-group GrupoServicioWebtucasa
+!
+!
+slb virtual-server Vp_Web_RHI 200.6.55.105
+--MORE--           disable
+   redistribution-flagged
+   port 0  tcp
+      name _200.6.55.105_TCP_0
+      disable
+      source-nat auto
+!
+!
+slb virtual-server Vp_Web_RHI2 200.6.55.106
+   redistribution-flagged
+   port 80  tcp
+      name _200.6.55.106_TCP_80
+      source-nat auto
+      service-group GrupoServicioWebRHI_TEST2
+!
+!
+!
+!
+!
+!
+!
+!
+--MORE--        netflow monitor OPmanager
+ monitor ethernet 2
+ destination 192.168.11.205 9996
+ source-address ip 192.168.51.183
+!
+!
+!
+!
+end
+
+A10-CPP-43438[NHLD]#                                ac
+A10-CPP-43438[NHLD]#active-partition shared
+Currently active partition: shared
+A10-CPP-43438#sho
+A10-CPP-43438#show run
+!Current configuration: 2914 bytes
+!Configuration last updated at 09:56:20 CST Thu Apr 5 2018
+!Configuration last saved at 09:56:22 CST Thu Apr 5 2018
+!version 2.7.2-P9, build 78 (Oct-01-2016,20:44)
+!
+!
+partition NHLD network-partition id 1
+!
+partition SLB network-partition id 2
+!
+partition Server_Int network-partition
+!
+hostname A10-CPP-43438
+!
+clock timezone America/Swift_Current
+!
+ip access-list standard ACCESO_SNMP 
+ permit host 192.168.10.202 
+ permit host 192.168.10.203 
+ permit host 192.168.11.205 
+!
+!
+--MORE--        radius-server host 192.168.10.153 secret secret-encrypted if9/jKqkL3Joso/TR2Z8jjwQjLjV2wDnPBCMuNXbAOc8EIy41dsA5zwQjLjV2wDn 
+authentication type local radius
+authentication console type local radius
+authentication mode multiple
+authentication disable-local
+authentication enable tacplus local
+authentication login privilege-mode
+router log record-priority
+
+!
+
+
+interface management
+ ip address 192.168.51.183 255.255.255.128
+!
+ip route 192.168.58.33 /32 192.168.51.129
+ip route 192.168.10.201 /32 192.168.51.129
+ip route 192.168.58.224 /32 192.168.51.129
+ip route 192.168.10.153 /32 192.168.51.129
+ip route 192.168.11.81 /32 192.168.51.129
+ip route 192.168.58.18 /32 192.168.51.129
+--MORE--        ip route 192.168.58.86 /32 192.168.51.129
+interface ethernet 4
+ disable
+!
+interface ethernet 5
+ speed 1000
+ duplexity Full
+ lacp trunk 1 mode active
+!
+interface ethernet 6
+ speed 1000
+ duplexity Full
+ lacp trunk 1 mode active
+!
+interface ethernet 7
+ disable
+!
+interface ethernet 8
+ disable
+!
+interface ethernet 9
+ disable
+--MORE--        !
+interface ethernet 10
+ disable
+!
+interface ethernet 11
+ disable
+!
+interface ethernet 12
+ disable
+!
+!
+!
+!
+!
+!
+!
+router bgp 27905
+ bgp log-neighbor-changes
+ maximum-paths 2
+ neighbor 165.98.74.37 remote-as 28036
+ neighbor 165.98.74.37 description TELEFONICA
+ neighbor 165.98.74.37 update-source ethernet 2
+--MORE--         neighbor 165.98.74.37 soft-reconfiguration inbound
+ neighbor 165.98.74.37 distribute-list 1 out
+!
+!
+!
+!
+
+!
+!
+!
+! 
+! 
+! 
+!
+!
+!
+environment temperature threshold low 25 medium 45 high 68
+ip anomaly-drop drop-all
+!
+!
+!
+!
+--MORE--        !
+!
+!
+!
+!
+!
+!
+!
+!
+netflow monitor "netflow manager"
+ destination 192.168.11.205 9996
+ source-address ip 192.168.51.183
+!
+!
+!
+snmp-server enable
+snmp-server enable traps
+snmp-server enable traps snmp linkdown
+snmp-server enable traps snmp linkup
+snmp-server enable traps slb service-down
+snmp-server enable traps slb service-up
+snmp-server enable traps slb server-down
+--MORE--        snmp-server enable traps slb server-up
+snmp-server enable traps system
+snmp-server enable traps slb-change vip-port
+snmp-server enable traps slb-change vip
+snmp-server enable traps slb-change server-port
+snmp-server enable traps slb-change server
+snmp-server contact "ennio.aleman@bdfnet.com"
+snmp-server community read pw-encrypted 7ZCrcu3CSGgk7ccqOrXLCTwQjLjV2wDnPBCMuNXbAOc8EIy41dsA5zwQjLjV2wDn remote 192.168.11.81
+snmp-server host 192.168.11.81  version v2c AdminUser udp-port 162
+!
+!
+!
+!
+!
+!
+!
+!
+!
+
+
+
+--MORE--        
+multi-config enable
+!
+!
+!
+end
+
+A10-CPP-43438#                              exit
+A10-CPP-43438>exit
+Are you sure you want to quit (N/Y)?: y

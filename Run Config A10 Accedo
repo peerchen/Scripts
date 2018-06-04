@@ -1,0 +1,694 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2018.06.04 08:07:45 =~=~=~=~=~=~=~=~=~=~=~=
+Access denied
+ennio.aleman@192.168.51.182's password: 
+Last login: Mon Jun  4 08:06:27 2018 from 192.168.11.81
+
+ACOS system is ready now.
+
+[type ? for help]
+
+A10-ACCEDO-43440#ac
+A10-ACCEDO-43440#active-partition NHLD
+Get partition 'NHLD': Partition does not exist.
+A10-ACCEDO-43440#active-partition NHLD  DL
+Currently active partition: NHDL
+A10-ACCEDO-43440[NHDL]#sho
+A10-ACCEDO-43440[NHDL]#show run
+!Current configuration: 10984 bytes
+!
+!Configuration last updated at 22:06:53 CST Sun Apr 29 2018
+!Configuration last saved at 22:09:17 CST Sun Apr 29 2018
+!
+active-partition NHDL
+vlan 20
+ untagged ethernet 1
+ router-interface ve 20
+ name "INTERNET"
+!
+
+object-group network ICMP-GOOGLE
+ host 8.8.8.8
+
+object-group network ICMP-GOOGLE-DMZ
+ host 192.168.100.138
+!
+class-list Cl_bdf_dns  
+ 0.0.0.0 /0 lid 10
+!
+access-list 1 permit 200.6.55.0 0.0.0.255 
+access-list 2 deny host 200.6.55.0 
+access-list 3 permit host 200.6.55.81 
+access-list 3 permit host 200.6.55.80 
+access-list 150 permit ip host 200.6.55.16 any 
+ip access-list standard ACCESO_SNMP 
+ permit host 192.168.10.202 
+ permit host 192.168.10.203 
+ permit host 192.168.10.201 
+ permit host 192.168.11.205 
+ip access-list BLOCK 
+ deny ip host 200.6.55.11 host 54.84.139.180 
+ deny ip host 200.6.55.11 host 54.236.159.186 
+ deny ip host 200.6.55.11 host 221.239.231.102 
+ deny ip host 200.6.55.11 host 221.232.247.2 
+ deny ip host 200.6.55.11 host 221.237.82.38 
+ deny ip host 154.35.175.225 any 
+ deny ip host 171.25.193.78 any 
+ deny ip host 178.162.194.210 any 
+ deny ip host 192.99.212.139 any 
+ deny ip host 195.154.165.112 any 
+ deny ip host 91.219.236.222 any 
+ deny ip host 188.166.23.127 any 
+ deny ip host 193.23.244.244 any 
+ deny ip host 2.3.69.209 any 
+ deny ip host 146.0.32.144 any 
+ deny ip host 50.7.161.218 any 
+ deny ip host 192.42.113.102 any 
+ deny ip host 83.169.6.12 any 
+ deny ip host 158.69.92.127 any 
+ deny ip host 86.59.21.38 any 
+ deny ip host 62.138.7.171 any 
+ deny ip host 51.255.203.235 any 
+ deny ip host 217.79.179.177 any 
+ deny ip host 128.31.0.39 any 
+ deny ip host 213.61.66.116 any 
+ deny ip host 212.47.232.237 any 
+ deny ip host 81.30.158.223 any 
+ deny ip host 79.172.193.32 any 
+ deny ip host 163.172.149.155 any 
+ deny ip host 167.114.35.28 any 
+ deny ip host 176.9.39.218 any 
+ deny ip host 193.11.114.43 any 
+ deny ip host 199.254.238.52 any 
+ deny ip host 89.40.71.149 any 
+ deny ip host 71.6.167.142 any 
+ deny ip 66.240.192.0 0.0.63.255 any 
+ permit ip any any 
+ip access-list NO_PING 
+ permit icmp host 192.168.11.81 host 8.8.8.8 
+ deny icmp any any 
+ deny tcp any any eq 23 
+ permit ip any any 
+ permit icmp object-group ICMP-GOOGLE-DMZ object-group ICMP-GOOGLE 
+ip access-list SSH 
+ permit tcp 192.168.0.30 0.0.255.0 any eq 22 
+ permit tcp host 192.168.10.202 any eq 22 
+ permit tcp host 192.168.58.18 any eq 22 
+ permit tcp host 192.168.58.33 any eq 22 
+ permit tcp host 192.168.51.129 any eq 22 
+ permit tcp host 192.168.10.100 any eq 22 
+ permit tcp host 192.168.11.205 any eq 22 
+!
+!
+
+
+interface ethernet 1
+ flow-control
+!
+interface ethernet 2
+ ip address 186.1.9.58 255.255.255.252
+ ip nat outside
+ access-list name NO_PING in
+ name "IDEAY" 
+ flow-control
+ load-interval 60
+!
+interface ethernet 3
+ ip address 165.98.54.206 255.255.255.252
+ ip nat outside
+ access-list name NO_PING in
+ name "CNX_INTERNET_TELEFONICA" 
+ load-interval 60
+!
+interface ve 20
+ ip address 200.6.55.1 255.255.255.0
+ ip nat inside
+ access-list name BLOCK in
+ name "INTERNET" 
+!
+interface loopback 1
+ ip address 186.1.9.54 255.255.255.252
+!
+ip route 192.168.10.203 /32 192.168.51.129
+ip route 192.168.58.18 /32 192.168.51.129
+ip route 192.168.58.33 /32 192.168.51.129
+ip route 200.9.187.77 /32 186.1.9.57
+ip route 200.10.205.0 /24 165.98.54.205
+ip route 192.168.10.100 /32 192.168.51.129
+ip route 192.168.10.201 /32 192.168.51.129
+ip route 192.168.11.205 /32 192.168.51.129
+!
+!
+!
+!
+!
+!
+!
+router bgp 27905
+ bgp log-neighbor-changes
+ maximum-paths 2
+ network 200.6.55.0/24
+ redistribute vip only-flagged
+ neighbor 165.98.54.205 remote-as 28036
+ neighbor 165.98.54.205 description TELEFONICA
+ neighbor 165.98.54.205 update-source ethernet 3
+ neighbor 165.98.54.205 weight 100
+ neighbor 165.98.54.205 soft-reconfiguration inbound
+ neighbor 165.98.54.205 distribute-list 1 out
+ neighbor 200.9.187.77 remote-as 18840
+ neighbor 200.9.187.77 description IDEAY-BDF
+ neighbor 200.9.187.77 ebgp-multihop 2
+ neighbor 200.9.187.77 update-source loopback 1
+ neighbor 200.9.187.77 soft-reconfiguration inbound
+ neighbor 200.9.187.77 maximum-prefix 3000 60
+ neighbor 200.9.187.77 distribute-list 1 out
+ neighbor 200.9.187.77 route-map AS_PATH_MOD in
+ neighbor 200.9.187.77 route-map AS_PATH_MOD out
+ distance 20 200.6.55.12/32 
+ distance 20 200.6.55.90/32 
+!
+!
+ip prefix-list PREPEND seq 5 permit 200.6.55.0/24
+ip prefix-list SUBREDTIGO seq 5 deny 165.98.0.0/16 le 32
+ip prefix-list SUBREDTIGO seq 10 permit 0.0.0.0/0 le 32
+!
+!
+!
+route-map AS_BAJO permit 10
+!
+route-map PREPEND permit 10
+ set as-path prepend 27905 27905 27905
+!
+route-map AS_PATH_MOD permit 5
+ match ip address prefix-list PREPEND
+ set as-path prepend 27905 27905
+!
+route-map AS_PATH_MOD permit 10
+!
+
+!
+!
+ip nat pool Nat_correo 200.6.55.96 200.6.55.96 netmask /32  
+ip nat inside source list 150 pool Nat_correo
+!
+health monitor MonitorHttp
+ method http
+!
+health monitor MonitorTCP_443
+ method tcp port 80
+!
+health monitor HM_dns
+ method dns domain www.bdfnet.com
+!
+health monitor hm_TCP_8093
+ method tcp port 80
+!
+health monitor monitorhttps
+ method https
+!
+glid 10
+   dns cache-enable
+   conn-limit 1000
+   conn-rate-limit 1000 per 1
+   request-limit 500
+   request-rate-limit 500 per 1
+!
+!
+slb server SevicioWeb1 200.6.55.9
+   no health-check
+   port 80  tcp
+   port 8093  tcp
+       health-check hm_TCP_8093
+       conn-limit 20000
+   port 443  tcp
+       health-check monitorhttps
+!
+slb server ServicioIbdf 200.6.55.37
+   no health-check
+   conn-limit 20000
+   port 443  tcp
+       health-check MonitorTCP_443
+   port 80  tcp
+!
+slb server ServicioSSlvpn 200.6.55.10
+   no health-check
+   port 0  tcp
+       no health-check
+!
+slb server bdfmail1 200.6.55.16
+   no health-check
+   port 0  tcp
+       no health-check
+!
+slb server Serviciomail 200.6.55.21
+   no health-check
+   port 0  tcp
+       no health-check
+!
+slb server ServicioMdm 200.6.55.60
+   no health-check
+   port 0  tcp
+       no health-check
+!
+slb server SevicioVpn 200.6.55.70
+   disable
+   no health-check
+   port 0  tcp
+       no health-check
+!
+slb server ServicioRDS 200.6.55.19
+   no health-check
+   port 0  tcp
+       no health-check
+!
+slb server RhiÇtest 200.6.55.72
+   disable
+   no health-check
+   port 443  tcp
+   port 80  tcp
+!
+slb server RhiÇtest2 200.6.55.73
+   disable
+   no health-check
+   port 80  tcp
+   port 443  tcp
+!
+slb server ServicioDNS 200.6.55.95
+   no health-check
+   conn-limit 30000
+   port 25  udp
+       health-check HM_dns
+       conn-limit 10000
+   port 53  udp
+!
+slb server ServicioDB_IC_BK 200.6.55.100
+   no health-check
+   conn-limit 20000
+   port 0  tcp
+       no health-check
+!
+slb server ServicioIbdfMovil 200.6.55.102
+   no health-check
+   conn-limit 20000
+   port 0  tcp
+       no health-check
+       conn-limit 20000
+!
+slb server fServicioChat_ 200.6.55.107
+   no health-check
+   conn-limit 20000
+   port 0  tcp
+       no health-check
+       conn-limit 20000
+!
+slb server Serviciosacapp 200.6.55.79
+   no health-check
+   conn-limit 20000
+   port 80  tcp
+       disable
+   port 443  tcp
+!
+slb service-group GrupoServicioWeb tcp
+    member SevicioWeb1:80
+!
+!
+slb service-group GrupoServicioIbdf tcp
+    member ServicioIbdf:443
+!
+!
+slb service-group GrupoServicioSslvpn tcp
+    member ServicioSSlvpn:0
+!
+!
+slb service-group GrupoBdfmail tcp
+    member bdfmail1:0
+!
+!
+slb service-group GrupoMail tcp
+    member Serviciomail:0
+!
+!
+slb service-group GrupoMdm tcp
+    member ServicioMdm:0
+!
+!
+slb service-group GrupoVpn tcp
+    member SevicioVpn:0
+!
+!
+slb service-group GrupoRDS tcp
+    member ServicioRDS:0
+!
+!
+slb service-group GrupoServicioWebRHI_TEST tcp
+    member RhiÇtest:80
+!
+!
+slb service-group GrupoServicioWebRHI_TEST2 tcp
+    member RhiÇtest2:80
+!
+!
+slb service-group Grupo_DNS udp
+    member ServicioDNS:53
+!
+!
+slb service-group GrupoDB_IC_BK tcp
+    member ServicioDB_IC_BK:0
+!
+!
+slb service-group GrupoIbdf_Movil tcp
+    member ServicioIbdfMovil:0
+!
+!
+slb service-group Grupo_chat tcp
+    member fServicioChat_:0
+!
+!
+slb service-group GrupoServicioWebtucasa tcp
+    member SevicioWeb1:8093
+!
+!
+slb service-group GrupoServiciohttpswww tcp
+    member SevicioWeb1:443
+!
+!
+slb service-group GrupoServicioServiciosacapp tcp
+    member Serviciosacapp:80 disable
+    member Serviciosacapp:443
+!
+!
+slb template dns bdf_daf
+    malformed-query drop
+    default-policy cache
+    class-list name Cl_bdf_dns
+    class-list lid 10
+      dns cache-enable
+      conn-rate-limit 1000 per 1
+slb virtual-server Vp_Web 200.6.55.90
+   disable when-all-ports-down
+   redistribution-flagged
+   port 80  tcp
+      service-group GrupoServicioWeb
+      syn-cookie 
+      conn-limit 20000
+   port 8093  tcp
+      service-group GrupoServicioWebtucasa
+   port 443  tcp
+      service-group GrupoServiciohttpswww
+      conn-limit 20000
+!
+!
+slb virtual-server Vip_ibdf 200.6.55.101
+   disable when-all-ports-down
+   redistribution-flagged
+   port 443  tcp
+      service-group GrupoServicioIbdf
+      syn-cookie 
+      conn-limit 20000
+!
+!
+slb virtual-server Vip_Sslvpn 200.6.55.91
+   port 0  tcp
+      service-group GrupoServicioSslvpn
+      syn-cookie 
+      conn-limit 20000
+!
+!
+slb virtual-server Vip_Bdfmail 200.6.55.96
+   disable when-all-ports-down
+   redistribution-flagged
+   port 0  tcp
+      service-group GrupoBdfmail
+      syn-cookie 
+      conn-limit 20000
+!
+!
+slb virtual-server Vip_DNS 200.6.55.12
+   disable when-all-ports-down
+   redistribution-flagged
+   port 53  dns-udp
+      service-group Grupo_DNS
+      conn-limit 30000
+      template dns bdf_daf
+!
+!
+slb virtual-server Vip_mdm 200.6.55.103
+   redistribution-flagged
+   port 443  tcp
+      name _200.6.55.103_TCP_0
+      service-group GrupoMdm
+      syn-cookie 
+   port 80  tcp
+      service-group GrupoMdm
+   port 2195  tcp
+      service-group GrupoMdm
+   port 2196  tcp
+      service-group GrupoMdm
+!
+!
+slb virtual-server Vip_chat_ibdf 200.6.55.71
+   port 0  tcp
+      service-group Grupo_chat
+      syn-cookie 
+      conn-limit 20000
+!
+!
+slb virtual-server VipRds 200.6.55.97
+   disable when-all-ports-down
+   redistribution-flagged
+   port 0  tcp
+      service-group GrupoRDS
+      syn-cookie 
+      conn-limit 20000
+!
+!
+slb virtual-server Vp_Web_RHI 200.6.55.105
+   disable
+   redistribution-flagged
+   port 80  tcp
+      disable
+      service-group GrupoServicioWebRHI_TEST
+!
+!
+slb virtual-server Vp_Web_RHI2 200.6.55.106
+   disable
+   redistribution-flagged
+   port 80  tcp
+      disable
+      service-group GrupoServicioWebRHI_TEST2
+!
+!
+slb virtual-server Vip_sacapp 200.6.55.110
+   disable when-all-ports-down
+   redistribution-flagged
+   port 80  tcp
+      disable
+      service-group GrupoServicioServiciosacapp
+   port 443  tcp
+      service-group GrupoServicioServiciosacapp
+      conn-limit 100000
+!
+!
+!
+!
+!
+!
+!
+!
+netflow monitor OPManager
+ record netflow-v5
+ record netflow-v5-ext
+ monitor ethernet 3
+ monitor ve 20
+ destination 192.168.11.205 9996
+ source-ip-use-mgmt
+!
+sflow collector 192.168.11.205 9996
+!
+logging syslog information
+logging trap critical
+logging single-priority notification 
+!
+!
+end
+
+A10-ACCEDO-43440[NHDL]#ac
+A10-ACCEDO-43440[NHDL]#active-partition she ared
+Currently active partition: shared
+A10-ACCEDO-43440#sho
+A10-ACCEDO-43440#show run
+!Current configuration: 3021 bytes
+!Configuration last updated at 09:40:43 CST Thu Apr 5 2018
+!Configuration last saved at 09:41:22 CST Thu Apr 5 2018
+!version 2.7.2-P9, build 78 (Oct-01-2016,20:44)
+!
+!
+partition NHDL network-partition
+!
+partition SLB network-partition id 2
+!
+partition Server_Int
+!
+hostname A10-ACCEDO-43440
+!
+clock timezone America/Swift_Current
+!
+ntp server 52.173.193.166 prefer
+!
+ip access-list SSH 
+ permit tcp host 192.168.10.199 any eq 22 
+!
+!
+radius-server default-privilege-read-write
+radius-server host 192.168.10.153 secret secret-encrypted if9/jKqkL3Joso/TR2Z8jjwQjLjV2wDnPBCMuNXbAOc8EIy41dsA5zwQjLjV2wDn 
+authentication type local radius
+authentication console type radius local
+authentication mode multiple
+authentication disable-local
+authentication enable tacplus local
+authentication login privilege-mode
+router log record-priority
+
+!
+
+
+interface management
+ ip address 192.168.51.182 255.255.255.128
+ ip control-apps-use-mgmt-port
+!
+ip route 192.168.58.33 /32 192.168.51.129
+ip route 192.168.10.201 /32 192.168.51.129
+ip route 192.168.10.100 /32 192.168.51.129
+ip route 192.168.58.224 /32 192.168.51.129
+ip route 192.168.11.205 /32 192.168.51.129
+ip route 192.168.58.18 /32 192.168.51.129
+ip route 192.168.58.80 /32 192.168.51.129
+ip route 192.168.58.86 /32 192.168.51.129
+interface ethernet 4
+ ip address 192.168.10.216 255.255.254.0
+ name "Red_LAN" 
+!
+interface ethernet 5
+ lacp trunk 1 mode active
+!
+interface ethernet 6
+ lacp trunk 1 mode active
+!
+interface ethernet 7
+ disable
+!
+interface ethernet 8
+ disable
+!
+interface ethernet 9
+ disable
+!
+interface ethernet 10
+ disable
+!
+interface ethernet 11
+ disable
+!
+interface ethernet 12
+ disable
+!
+ip route 0.0.0.0 /0 192.168.10.1
+!
+lacp-trunk 1
+ name "DMZ"
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+
+!
+!
+!
+! 
+! 
+! 
+!
+!
+!
+environment temperature threshold low 25 medium 45 high 68
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+netflow monitor NetOpmanager
+ record netflow-v5-ext
+ destination 192.168.11.205 9996
+ source-ip-use-mgmt
+ source-address ip 192.168.51.182
+!
+!
+logging syslog notification
+logging trap critical
+logging host 192.168.11.205 port 1514 use-mgmt-port
+!
+snmp-server enable
+snmp-server enable traps snmp linkdown
+snmp-server enable traps snmp linkup
+snmp-server enable traps slb service-down
+snmp-server enable traps slb service-up
+snmp-server enable traps slb server-down
+snmp-server enable traps slb server-up
+snmp-server enable traps system
+snmp-server enable traps slb-change vip-port
+snmp-server enable traps slb-change vip
+snmp-server enable traps slb-change server-port
+snmp-server enable traps slb-change server
+snmp-server location "ACCEDO"
+snmp-server contact "ennio.aleman@bdfnet.com"
+snmp-server community read pw-encrypted 7ZCrcu3CSGgk7ccqOrXLCTwQjLjV2wDnPBCMuNXbAOc8EIy41dsA5zwQjLjV2wDn remote 192.168.11.81
+snmp-server host 192.168.11.81  version v2c AdminUser udp-port 162
+!
+enable-management service snmp-trap management
+!
+!
+!
+!
+ip dns primary 8.8.8.8
+ip dns secondary 8.8.4.4
+!
+!
+!
+!
+
+
+
+
+multi-config enable
+!
+!
+no terminal auto-size
+terminal width 80
+terminal length 0
+!
+end
+
+A10-ACCEDO-43440#wr
+                  ^
+% Unrecognized command.Invalid input detected at '^' marker.
+
+A10-ACCEDO-43440#exit
+A10-ACCEDO-43440>w exit
+Are you sure you want to quit (N/Y)?: u
+quit aborted
+
+A10-ACCEDO-43440>exit
+Are you sure you want to quit (N/Y)?: y
