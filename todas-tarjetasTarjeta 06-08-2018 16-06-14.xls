@@ -1,0 +1,1310 @@
+Número	Nombre(s)	Apellido(s)	Código_empleado	Nivel de Acceso	Estado	Cuenta
+2801	Cesy Gabriela	Torres Chavarria	4004	Norte: Cajeros	Activa	Seguridad
+2802	Maria del Carmen	Manzanares Vado	4075	Brisas: Jefes	Activa	Seguridad
+2803	Fatima de Jesus	Vega Marenco	4076	SanJuanSur:Oficiales	Activa	Seguridad
+2804	Maria Jose	Blaco Guido	4077	Leon: Cajas	Activa	Seguridad
+2805	Cindy Aydalina	Jiron Gonzalez		Juigalpa:  Cajas	Activa	Seguridad
+2806	Merving Francisco	Palacios Roque 	4079	Norte: Cajeros	Activa	Seguridad
+2807	Danelia del Carmen	Obando Guzman	4080	Norte: Cajeros	Activa	Seguridad
+2809	Maria Auxiliadora	Berrios Lopez	2020	Centro: Acceso General	Activa	Seguridad
+2811	Tania del Carmen 	Perez Sanchez	3661	Centro II: TC Custodia	Activa	Seguridad
+2814	Crhistopher Guillermo	Guerrero	4094	Centro: Riesgos	Activa	Seguridad
+2815	Conserje	Jinotepe		Jinotepe: SSBB	Activa	Seguridad
+2816	Walter Martin 	Narvaez Vargas	4088	Americas: oficiales	Activa	Seguridad
+2817	Wilber Enrique	Valdivia Olivas	4089	Sur: Oficiales	Activa	Seguridad
+2818	Yuri de los Angeles	Lopez Gonzalez	4090	Delta: Cajeros	Activa	Seguridad
+2819	Elizabeth del Rosario	Obando Fargas 	4091	Huembes: Oficiales	Activa	Seguridad
+2820	Kathy Nohemi 	Aviles Irias	4092	Centro: Back Office	Activa	Seguridad
+2821	Laura Vanessa 	Morales Espinoza 	4095	Centro: Operaciones / Recup	Activa	Seguridad
+2822	Wilmer Jose 	Garcia Sanchez	4096	Casa Bolonia: Recuperaciones	Activa	Seguridad
+2823	Lesner Javier 	Villega Lopez	4093	Centro II: Tecnologia	Activa	Seguridad
+2825	Carlos Aviud 	Jimenez Lacayo	4097	Masaya: Jefes	Activa	Seguridad
+2826	Conserje	Chinandega		Chinandega: Conserje	Activa	Seguridad
+2827	Aleyda del Socorro	Perez Sequeira	2756	Sucursa Centro: Jefes	Activa	Seguridad
+2828	Carlos Ulises	Paniagua Sanchez	2211	Sucursal Centro: Cajeros	Activa	Seguridad
+2829	conserje Yamiileth de Socorro 	Sanchez Arias-Masaya		Masaya: Cafeteria	Activa	Seguridad
+2830	Conserje Karla Vega 	Centro II TC		Centro II: Conserje Tarjetas	Activa	Seguridad
+2832	Herly Domingo	Rivera Gomez	3403	Atrium: Sotano	Activa	Seguridad
+2833	Norma Sarahi 	Meneses Escobar		Atrium: Sotano	Activa	Seguridad
+2834	Dania del Socorro	Tercero Huete	3583	Sucursal Centro: Cajeros	Activa	Seguridad
+2835	Conserje	Huembes		Huembes: Conserje	Activa	Seguridad
+2836	Tania Yoreli	Galo Ortega	3578	Ciudad Jardin: Jefes	Activa	Seguridad
+2837	Roberto Junior	Lopez Fonseca	4104	Bolivar: Oficiales Ventas	Activa	Seguridad
+2838	Harvey Fernando	Torrez Zeleya	4103	Centro: Operaciones / Recup	Activa	Seguridad
+2839	Edward Noe	Torrez Zamora	4102	Centro: Operaciones / Recup	Activa	Seguridad
+2840	Nathalia Ivett	Gonzalez Hernandez	4101	Centro: Operaciones / Recup	Activa	Seguridad
+2841	Roberto Uriel	Tijerino Martinez	4100	Centro: Operativos Tarjeta	Activa	Seguridad
+2842	Maria Teresa 	Gontol Rodriguez	4099	Centro II: TC Oficiales	Activa	Seguridad
+2843	Kristopher Shamir 	Zarate Tercero	4105	Tesoreria: Oficial Tesoreria	Activa	Seguridad
+2844	Cristhel Varinia 	Alvarez Castillo	3513	Rubenia: Jefes	Activa	Seguridad
+2845	Conserje	Multicentro Esteli		Esteli: SSBB	Activa	Seguridad
+2847	Jorge Adonis	Robles Garcia	4106	Juigalpa: Jefes	Activa	Seguridad
+2848	Maria Trinidad	Gutierrez Porras	4107	Masaya: SSBB	Activa	Seguridad
+2849	Aracely del Socorro	Fonseca Meza	2944	CPP: Cajas	Activa	Seguridad
+2851	Lizeth 	Torrez	2866	Linda Vista: SSBB	Activa	Seguridad
+2855	Reyna Elisa	 Barquero Gutierrez	2855	Bolivar: Oficiales Ventas	Activa	Seguridad
+2856	Ana Mayela	Campos Rojas	2856	Atrium: Sotano	Activa	Seguridad
+2857	Cinthya Carolina	Acosta	4081	Americas: oficiales	Activa	Seguridad
+2858	Vanessa Carolina	Betanco Saballos	4085	Atrium: Sotano	Activa	Seguridad
+2859	Sara del Rosario	Jarquin Rugama	3794	Sebaco: Oficiales	Activa	Seguridad
+2861	Glaucia Susana	Chamorro Aviles	3257	Bolivar: Oficiales Ventas	Activa	Seguridad
+2862	Guillermo Jose	Chavez Zamora	2407	Delta: Jefes	Activa	Seguridad
+2863	Maria Concepcion	Ortiz Hernandez 		Centro II: Invernic	Activa	Seguridad
+2864	Meylin Lissette	Fonseca	4086	Centro II: TC Oficiales	Activa	Seguridad
+2865	Maynor Anibal	Aguilar Bolaños	33077	Cedoc: Oficiales	Activa	Seguridad
+2866	Fatima Jissel	Gonzalez Guerrero	3946	Esteli: Cajeros	Activa	Seguridad
+2867	Marlon de Jesus	Monge Ortiz	2962	Centro: Operativos Tarjeta	Activa	Seguridad
+2868	Jessy Engel	Escoto Rodriguez	4029	Sucursal Centro: SSBB	Activa	Seguridad
+2869	Sofia de los Angeles	Aleman Calderon	4066	Americas SSBB	Activa	Seguridad
+2871	Adania Maria	Barillas Romero	3342	Atrium: Sotano	Activa	Seguridad
+2872	Ileana del Socorro	Guerrero Padilla	2180	Centro: Tarjeta	Activa	Seguridad
+2874	Karla Javiera 	Barahona Osegueda	3682	Veracruz: Cafeteria	Activa	Seguridad
+2875	Conserje 	Atrium 1er Piso		Atrium: Sotano	Activa	Seguridad
+2876	Conserje	Ciudad Jardin		Ciudad Jardin: Conserje	Activa	Seguridad
+2877	Katia Cristina	Balladares Soto	3008	Casa Bolonia: Recuperaciones	Activa	Seguridad
+2878	Claudia Vanessa	Padilla Padilla	4114	Linda Vista: SSBB	Activa	Seguridad
+2879	Gabriela Esperanza	Berrios Romero	4113	Rubenia: Oficiales	Activa	Seguridad
+2881	AUDITOR-2	SIBOIF- INVERNIC		Centro II: Tecnologia	Activa	Seguridad
+2882	Missael Josué	 Parrales Mejía	4115	Bolivar: Oficiales Ventas	Activa	Seguridad
+2883	Faren Georgina	Castillo Lopez	4111	Linda Vista: Cajeros	Activa	Seguridad
+2884	Jose Ramon	Guerrero Vivas	2217	Casa Bolonia: Recuperaciones	Activa	Seguridad
+2885	 Jeanine de Fatima	Rivas Bonilla 		UCA: Oficiales	Activa	Seguridad
+2887	Gloria 	Perez Hudiel		Centro II: Invernic	Activa	Seguridad
+2888	Carlos Manuel	Rodriguez Zeledon 		Esteli: SSBB	Activa	Seguridad
+2889	Alicia Esmeralda	Polanco Ponce	3430	Atrium: Contabilidad	Activa	Seguridad
+2890	Karina Valesca	Mendez Martinez	3416	Cedoc: Oficiales	Activa	Seguridad
+2891	Eva Nerys 	Sevilla Rivera	4117	Esteli: Cajeros	Activa	Seguridad
+2892	Perla Carolina	Castillo Gutierrez	4118	Matagalpa: Cajeros	Activa	Seguridad
+2894	Raquel Elizabeth 	Ardila Gutierrez	3367	Casa Bolonia: Recuperaciones	Activa	Seguridad
+2895	Delias Manuel	Saballos		Centro II: Invernic	Activa	Seguridad
+2896	William Ricardo	Siles Sandoval	2475	Casa Bolonia: Recuperaciones	Activa	Seguridad
+2897	Daniela Lucia	Bustos Guzman	3082	Atrium: Sotano	Activa	Seguridad
+2898	Aracely del Socorro	Rueda Guadamuz	2591	Metrocentro: Jefes	Activa	Seguridad
+2899	Lennie de Jesus 	Cárdenas Yesca	4119	Centro: Operativos Tarjeta	Activa	Seguridad
+2900	Conserje 	Cedoc		Cedoc: Conserje	Activa	Seguridad
+2902	Delmi Jineth	Silva Salmeron	3167	Altamira: Jefes	Activa	Seguridad
+2903	Carlos Jose 	Chavarria Saenz	2413	Matagalpa: SSBB	Activa	Seguridad
+2904	Ana Maria 	Urtecho Castro	4002	Centro II: TC Custodia	Activa	Seguridad
+2906	Jordan Josue	Cabezas Urbina	4130	Centro II: TC Oficiales	Activa	Seguridad
+2907	Loren Sarai	Cerda Mora	4032	Norte: Cajeros	Activa	Seguridad
+2908	Nubia Esmeralda	Robleto Ortega 726		Atrium: Presidencia	Activa	Seguridad
+2909	Rodolfo Antonio	Cuadra Mendoza	3540	Rubenia: PYME	Activa	Seguridad
+2911	Osiris Alejandra	Arcia Cervantes	2765	Centro II: CAT	Activa	Seguridad
+2912	Hortencia  Yoilisabeth	Arroyo Pavon	4108	Norte: SSBB	Activa	Seguridad
+2914	Marvin Roberto	Perez Marenco	3084	Centro: Acceso General	Activa	Seguridad
+2917	Karen Oneyda 	Peraza Rivera	1011	Atrium: Sotano	Activa	Seguridad
+2919	Alexander	Martinez Sotelo	1821	Centro: Acceso General	Activa	Seguridad
+2920	Maria Esperanza	Cardoza Moya	1852	Sucursal Centro: Cajeros	Activa	Seguridad
+2921	Roberto Carlos	Moreno Llanes	1433	Sucursa Centro: Jefes	Activa	Seguridad
+2922	Jennyffer Valeska	Prado Cerna	4145	Centro: Operaciones / Recup	Activa	Seguridad
+2923	SERLISA	LAS BRISAS		Brisas: Conserje	Activa	Seguridad
+2924	Gabriela Julissa	Gonzalez Larios	3548	Masaya: SSBB	Activa	Seguridad
+2925	Xochilt Tamara	Zamora Osegueda	3108	Centro II: Tecnologia especial	Activa	Seguridad
+2951	Majandell Fernanda 	Mercado Arana	3795	Linda Vista: Cajeros	Activa	Seguridad
+2954	Ileana Aracelly	Hernandez Narvaez	4120	Jinotepe: Cajeros	Activa	Seguridad
+2955	Crismary	Lopez Flores	4121	Esteli: Cajeros	Activa	Seguridad
+2956	Leonel Enrique	Peralta Mairena	4122	Esteli: Cajeros	Activa	Seguridad
+2957	Xaviera Belen	Bell Rodriguez		Delta: Cajeros	Activa	Seguridad
+2958	Tyara de los Angeles	Zapata Rivas		Sucursal Centro: Cajeros	Activa	Seguridad
+2959	Rosa Aura	Diaz Merlo		Altamira: Oficiales	Activa	Seguridad
+2960	Silvia Patricia	Perez Quedo	4126	Rivas: Oficilaes	Activa	Seguridad
+2961	Edith Massiel	Maltez Gomez 		Altamira: Oficiales	Activa	Seguridad
+2962	Alba Rosa	Alvarez Granado		Juigalpa:  Cajas	Activa	Seguridad
+2963	Felix Jose	Presby		Centro II: Invernic	Activa	Seguridad
+2964	Indira de los Angeles	Arauz Castellon 		Ciudad Jardin: Jefes	Activa	Seguridad
+2965	Viviam Marelys	Meza Lopez		SanJuanSur:Oficiales	Activa	Seguridad
+2966	Violeta del Carmen	Perez Orozco 10		Master	Activa	Seguridad
+2967	Jose Bladimir	Saavedra Soto	2693	Centro: Tarjeta	Activa	Seguridad
+2968	Jose Antonio 	Lopez Pineda	2484	Centro II: Auditoria	Activa	Seguridad
+2969	Ana Maria	Flores 333		Cedoc: Oficiales	Activa	Seguridad
+2970	Isamar Francisca 	Flores Duran	3800	Virgen: SSBB	Activa	Seguridad
+2971	Myling Ninoska	Macias Navarro	4131	Jinotepe: SSBB	Activa	Seguridad
+2972	Nancy Francisca	Garcia Gomez	3372	Centro: Operaciones / Recup	Activa	Seguridad
+2973	Francisco Javier 	Cano Morales	3380	Centro: Back Office	Activa	Seguridad
+2975	Silvia Margarita	Ortega Mena 529		Granada Oficiales	Activa	Seguridad
+2976	Miguel Angel	Araica Saborio	3172	Centro: Operativos Tarjeta	Activa	Seguridad
+2977	Kevin Josue	Rueda Villegas	4031	Galerias: Cajeros	Activa	Seguridad
+2978	Lesther Josue 	Briceño Castello	3616	Tipitapa: Oficiales	Activa	Seguridad
+2980	Jonathan 	Cardoza Rosales	3197	Atrium: Sotano	Activa	Seguridad
+2982	Norma Isabel 	Mendoza	4134	Centro II: TC Oficiales	Activa	Seguridad
+2983	Cristhian Edith	Loaisiga Vilchez 526		Sucursa Centro: Jefes	Activa	Seguridad
+2984	Jennifer Valeria 	Aranda Flores	4135	Tesoreria: Oficial Tesoreria	Activa	Seguridad
+2985	Sarita Raquel	Molina Sanchez	4140	Ciudad Jardin: Cajeros	Activa	Seguridad
+2986	Jose Luis	Trejos Hernandez	4137	Brisas: Cajas	Activa	Seguridad
+2987	Danelia Valentina	Lopez Ortiz	4139	Sucursal Centro: Cajeros	Activa	Seguridad
+2988	AUDITOR- 1	SIBOIF-INVERNIC		Centro II: Tecnologia	Activa	Seguridad
+2989	SERLISA	CENTRO 2		Centro II: CAT	Activa	Seguridad
+2990	Marlon Manuel	Gutierrez Gonzalez	3174	Bolivar: Oficiales Ventas	Activa	Seguridad
+2992	Doris Nohemi	Treminio Dublon	4138	Delta: Cajeros	Activa	Seguridad
+2993	Darling Sugey	Davila	4142	Casa Bolonia: Recuperaciones	Activa	Seguridad
+2994	Bayardo Jose	Torres Gutierrez -Pasante		Atrium: Sotano	Activa	Seguridad
+2997	Jose Luis	Norori Jaime	2495	Casa Bolonia: Recuperaciones	Activa	Seguridad
+2999	Scarlett Guisell	Navarrete Rugama		Casa Bolonia: Recuperaciones	Activa	Seguridad
+3000	Roberto Jose	Vargas Cruz		Casa Bolonia: Recuperaciones	Activa	Seguridad
+3403	Herly Domingo	Rivera Gomez	3403	Atrium: Sotano	Activa	Seguridad
+3458	Brenda de los Angeles	Gonzalez Gaitan		Altamira: Oficiales	Activa	Seguridad
+3496	Eliette de los Angeles	Lopez Fonseca		Centro II: TC Custodia	Activa	Seguridad
+3515	Noel Enrique	Urbina Martinez 794		Centro: Tarjeta	Activa	Seguridad
+3551	Oscar 	Aviles Garcia	2036	CPP: Cajas	Activa	Seguridad
+3563	Patricia	Duarte		Centro II: TC Oficiales	Activa	Seguridad
+3572	Guisell	Solorzano Solorzano		Centro II: Operadores	Activa	Seguridad
+3583	Kathleen del Carmen	Collado Gonzalez	2760	Centro II: Suministros.	Activa	Seguridad
+3585	Salvador 	Barahona Peña		Centro: Acceso General	Activa	Seguridad
+4082	Jean Louis	Tenorio Cerda	2854	CPP: Cajas	Activa	Seguridad
+4105	Norma Patricia	Garcia Gomez	2178	Chinandega Jefes	Activa	Seguridad
+4116	Massiel Andrea	Sevilla	1125	Centro: Acceso General	Activa	Seguridad
+4144	Violeta Tamara	Diaz Sclafani	2600	Atrium: Presidencia	Activa	Seguridad
+5410	Manuel Alexander	Duarte Morales	3017	Centro: Cumplimiento	Activa	Seguridad
+5419	Nubia Maria	Quintanilla Gonzalez	1482	Jinotepe: Jefes	Activa	Seguridad
+5434	Ernesto 	Ruiz		Centro II: TC Oficiales	Activa	Seguridad
+5441	Judith Elizabeth	Carvajal Garcia	2548	Bolivar: Oficiales Ventas	Activa	Seguridad
+5443	Victoria del Carmen	Estrada Ortega		Matagalpa: Cajeros	Activa	Seguridad
+5462	Walter Rene	Rivera Cano	2955	Centro II: Transporte	Activa	Seguridad
+5466	Maria Esther	Suarez Espinoza 904		Atrium: Sotano	Activa	Seguridad
+5468	Jacqueline Yahoska	Zuniga Ruiz		Sur: Oficiales	Activa	Seguridad
+5477	Yvette Cecilia	Fonseca	2040	Atrium: Presidencia	Activa	Seguridad
+5488	Elia Maria	Garcia Zuniga		Centro II: TC Custodia	Activa	Seguridad
+5501	Francys del Socorro	Flores Martinez		SanJuanSur:Oficiales	Activa	Seguridad
+5510	Juan Agustin	Romero Brenes		Bolivar: Oficiales Ventas	Activa	Seguridad
+5516	Elgin Antonio	Diaz Ortez	2968	Centro: Gestion Humana	Activa	Seguridad
+5526	Enoc Jose	Machado Largaespada	2563	Atrium: Presidencia	Activa	Seguridad
+5528	Margarita de los Angeles	Torrentes Espinoza	1257	Centro: Riesgos	Activa	Seguridad
+5556	Arlobis Jose	Gutierrez Duarte	2929	Centro II: Transporte	Activa	Seguridad
+5596	Jose Benito	Gutierrez Mejia	2941	Centro: Riesgos	Activa	Seguridad
+6839	Conserje Doña Socorro 	Serlisa		Atrium: Sotano	Inactiva	Seguridad
+8163	Maria Elena	Treminio Trujillo		Sebaco: Oficiales	Activa	Seguridad
+8205	Belkys Julisa	Lopez Salazar		Galerias: Cajeros	Activa	Seguridad
+8208	Leda Lucia	Chow Sujo 78 		Centro II: Tecnologia	Activa	Seguridad
+8212	Marvin Jose	Guevara Salgado		Atrium: Sotano	Activa	Seguridad
+8220	Oliver Andrés	Gomez Zamora	3066	Master	Activa	Seguridad
+8234	Mario Ricardo	Corrales Matamoros		Centro II: Tecnologia	Activa	Seguridad
+8236	Ledys Massiel	Rodriguez Herrera		Granada Oficiales	Activa	Seguridad
+8242	Jorge Douglas 	Lopez Saavedra 		Centro: UAIR	Activa	Seguridad
+8263	Mayela Melissa	Hernandez Ramos		Delta: Jefes	Activa	Seguridad
+8294	Claudia Maria	Robleto Icaza	3127	Centro: Operaciones / Recup	Activa	Seguridad
+8311	Eduardo Alfredo	Lizarraga Miranda	3284	Centro II: TC Oficiales	Activa	Seguridad
+8314	Yahoska Cristhina 	Molina Granados	3287	Centro: Operaciones / Recup	Activa	Seguridad
+8317	Karla Vanessa	Alvarez Campos 264		Centro: Acceso General	Activa	Seguridad
+8319	Marjorie Leonela	Galeano Cruz	1851	Esteli: Cajeros	Activa	Seguridad
+8321	Edwin Adolfo	Navarro Baez	3293	Americas SSBB	Activa	Seguridad
+8323	Carlos Amado	Montes Castaño		Centro II: Transporte	Activa	Seguridad
+8332	Eliezer Arsenio	Otero Espinoza	3279	Centro: UAIR	Activa	Seguridad
+8333	Rayza Sanueli	Parrilla Torres		Esteli: Cajeros	Activa	Seguridad
+8359	Martha Georgina	Bonilla Arrieta		Huembes: Oficiales	Activa	Seguridad
+8362	Jorge Evelio	Jiron Chamorro		Bolivar: Oficiales Ventas	Activa	Seguridad
+8367	Merchelly Johana	Sanchez Soto		Centro II: TC Custodia	Activa	Seguridad
+8379	Blanca Teresa	Herradora Ramos		Bolivar: Oficiales Ventas	Activa	Seguridad
+8383	Dionisio Francisco	Diaz Santos	1263	Centro II: Tecnologia	Activa	Seguridad
+8385	Pedro Leonel	Martinez Mejia	2143	Master	Activa	Seguridad
+8389	Martin	Peña KPMG		Atrium: Sotano	Activa	Seguridad
+8391	Conserje	Galerias		Galerias: SSBB	Activa	Seguridad
+8393	Pedro Leonel	Martinez Mejia	2143	Master	Activa	Seguridad
+8394	GBM	GBM		Centro II: Tecnologia	Activa	Seguridad
+8406	Alex Jose	Narvaez		Bolivar: Oficiales Ventas	Activa	Seguridad
+8426	Denis Alberto	Guitierrez Hernandez	3096	Cedoc: Garantia	Activa	Seguridad
+8427	Pablo David	Velasquez Zelaya		Bolivar: Oficiales Ventas	Activa	Seguridad
+8432	Ronda Susana	Solorzano Quant		Centro II: TC Oficiales	Activa	Seguridad
+8434	Francisco Javier	Briones Torres	3110	Atrium: Presidencia	Activa	Seguridad
+8440	Allan 	Blandon Vasquez	2762	Matagalpa: SSBB	Activa	Seguridad
+8466	Kathya Azucena	Maltez Amador	1369	Atrium: Sotano	Activa	Seguridad
+8483	Alejandro Antonio	Hernandez Aleman		Centro II: Operadores	Activa	Seguridad
+8504	Oliver Andrés	Gomez Zamora	3066	Master	Activa	Seguridad
+8514	Carlos	Sacasa Gonzalez		Atrium: Presidencia	Activa	Seguridad
+8527	Walter Agustin	Acuña Su		Bolivar: Oficiales Ventas	Activa	Seguridad
+8534	Indira Lyllen	Moreno Torrez	2521	Centro: Operaciones / Recup	Activa	Seguridad
+8537	Rossibel	Urbina	2082	Rubenia: PYME	Activa	Seguridad
+8541	Rolando 	Granera Martinez	3064	Centro II: Tecnologia	Activa	Seguridad
+8553	Percy	Nuñez		Atrium: Presidencia	Activa	Seguridad
+8554	Sergio	Lacayo		Atrium: Presidencia	Activa	Seguridad
+8556	Julio	Balladares		Atrium: Presidencia	Activa	Seguridad
+8557	Carlos	Mendoza		Atrium: Presidencia	Activa	Seguridad
+8558	Eduardo	Fabrega		Atrium: Presidencia	Activa	Seguridad
+11414	Soporte	GBM		Centro II: Tecnologia	Activa	Seguridad
+11499	Rommel David	Guerrero Villavicencio	1003	Centro II: Tecnologia	Activa	Seguridad
+11710	Elyn Osbaldo	Niño Hernandez		Centro II: TC Oficiales	Activa	Seguridad
+11711				Leon: Cajas	Activa	Seguridad
+11715	Jairo Juaquin 	Davila Mendoza 2278		Centro: Operaciones / Recup	Activa	Seguridad
+11726	Ryan Raymond	Mendez Carter 1493		Atrium: Sotano	Activa	Seguridad
+11760	Mirna Ester	Mendoza Hernandez 2679		Centro II: TC Oficiales	Activa	Seguridad
+11761	Denis Andres	Orozco Iglesia		Casa Bolonia: Recuperaciones	Activa	Seguridad
+11764	Lohanna Maria	Arguello Choseul 3315		Atrium: Sotano	Activa	Seguridad
+11767	Dayana Maria	Mejia Padilla 1344		Atrium: Sotano	Activa	Seguridad
+11777	Maria Gabriela	Reyes Padilla 2847		Linda Vista: Jefes	Activa	Seguridad
+11791	Maria Jose	Sarria Jiron		Leon: Cafeteria	Activa	Seguridad
+11793	Maria Esther	Rayo Reyes 1576		Atrium: Sotano	Activa	Seguridad
+11794	Jeffrey Josue	Mena Molina 2836 		Centro II: Transporte	Activa	Seguridad
+11803	Nelson Avener	Solorzano Hernandez 3256		Casa Bolonia: Recuperaciones	Activa	Seguridad
+11816	Jessica Azucena	Gallo Palacios 1286		Cedoc: Jefes	Activa	Seguridad
+11818	Burthlan Rodney	Rankin Alvarez 2875		Cedoc: Oficiales	Activa	Seguridad
+11826	Luis Antonio	García Alvarado		Centro II: TC Oficiales	Activa	Seguridad
+11829	Adriana del Carmen	Palacios Espinoza 3260		Centro: Back Office	Activa	Seguridad
+11834	Hugo Martin	Garcia Gomez 3267		Galerias: Jefes	Activa	Seguridad
+11840	David Alonso	Zuniga Gaitan 3265		Rubenia: PYME	Activa	Seguridad
+11851	Amalia 	Mata Icabalceta		Tipitapa: Oficiales	Activa	Seguridad
+11857	Rythel Melissa	Soza Treminio		Matagalpa: Cajeros	Activa	Seguridad
+11862	Benigana	Mendiola Donaire 		Centro: Gestion Humana	Activa	Seguridad
+11863	Aracelly del Rosario	Ocon Hernandez		Centro: Back Office	Activa	Seguridad
+11864	Lesli Manuel	Ruiz Moraga 2770		Centro II: TC Oficiales	Activa	Seguridad
+11865	Ricardo Domingo 	Urbina Ampie 3225		Centro: Operaciones / Recup	Activa	Seguridad
+11866	Mariana Raquel 	Sandoval Perez 3226		Centro: Troquelacion	Activa	Seguridad
+11872	Marion Gabriela	Gutierrez Garcia		Centro: Boveda	Activa	Seguridad
+11897	Lesyel	Hernandez Granera 2013		Centro II: TC Oficiales	Activa	Seguridad
+11901	Itsell Dayana	Zepeda Sanchez		Esteli: Cajeros	Activa	Seguridad
+11905	Scarleth Milored	Ortiz Serrano 3296		Sucursal Centro: SSBB	Activa	Seguridad
+11906				Centro: Operaciones / Recup	Activa	Seguridad
+11916	Victoria Maria	Ruiz Sanchez 2067		UCA: Oficiales	Activa	Seguridad
+11919	Yasser Josephat	Espinales Rivas 		Chinandega Oficiales	Activa	Seguridad
+11930	Walter Javier	Ramirez Urbina 2795		Bolivar: Oficiales Ventas	Activa	Seguridad
+11934	Bosco Mariano 	Miranda Gonzalez		Centro II: CAT	Activa	Seguridad
+11941	Centro I	Guarda Ent Principal		Centro: Camara	Activa	Seguridad
+11945	Marlen Carelia	Martinez Idalgo		Atrium: Sotano	Activa	Seguridad
+11946	Edgard Jose	Fargas Tellez  PASANTE		Cedoc: Garantia	Activa	Seguridad
+11947	Conserje 	Atrium - Contabilidad		Atrium: Sotano	Activa	Seguridad
+11949				Centro II: TC Oficiales	Activa	Seguridad
+11950	Alvaro Antonio	Aburto Gonzalez 3236		Centro II: Transporte	Activa	Seguridad
+11951	Conserje	Somoto		Somoto: SSBB	Activa	Seguridad
+11957	Jose Reynaldo 	Sanchez Sandino 		Centro: Riesgos	Activa	Seguridad
+11962	Melissa Eugenia	Mayorga Sequeira 3009		Atrium: Sotano	Activa	Seguridad
+11970	Ivania Patricia	Areas Valdivia 2541		Centro: Back Office	Activa	Seguridad
+11983	Leonel Jose	Quant Jarquin 2009		Atrium: Presidencia	Activa	Seguridad
+11987	Oscar Antonio 	García Martínez 3178		Centro II: Transporte	Activa	Seguridad
+12003	Luis Enrique	Centeno Pacheco 2092		Atrium: Sotano	Activa	Seguridad
+12008	Elsideydi	Mayorga Martinez 3200		Centro: Gestion Humana	Activa	Seguridad
+12010	Mario Leonardo	Perez Tijerino		Centro II: Tecnologia	Activa	Seguridad
+12012	Claudia Mercedes	Perez Avellan		Americas: oficiales	Activa	Seguridad
+12019	Johanna Elizabeth	Martinez Ruiz		Linda Vista: Cajeros	Activa	Seguridad
+12043	Grethel	Suarez Acevedo		Centro II: CAT	Activa	Seguridad
+12046	Heyzell del Carrmen	Lira Ramirez 3199		Sucursal Centro: SSBB	Activa	Seguridad
+12060	Harold Antonio	Flores Hernandez 2641		Centro II: Tecnologia especial	Activa	Seguridad
+12065	Oscar Javier	Leiva Arauz 2569		Atrium: Sotano	Activa	Seguridad
+12069	Saddy Elizabeth	Parrales Hernandez		Centro II: Tecnologia	Activa	Seguridad
+12078	Efrain 	Espinoza Martinez		Centro II: CAT	Activa	Seguridad
+12080	Angelica Maria	Martinez Perez		Centro: Operaciones / Recup	Activa	Seguridad
+12083	Reyna Mayela	Ramirez Gutierrez		Masaya: Cajas	Activa	Seguridad
+12093	Norman Gabriel	Lacayo Troz 3160		Centro: Operaciones / Recup	Activa	Seguridad
+12098	Scarleth Alexandra	Siles Hernandez		Bolivar: Oficiales Ventas	Activa	Seguridad
+12099	Luisa Emilia	Ortez Lopez		Esteli: Jefes	Activa	Seguridad
+17220	Rodrigo	Reyes Portocarrero		Atrium: Presidencia	Activa	Seguridad
+17221	Oscar	Mojica Obregon		Atrium: Presidencia	Activa	Seguridad
+17222	Mario 	Cardenal Chamorro		Atrium: Presidencia	Activa	Seguridad
+17239	Karla	Rosales Corea		Centro: Operaciones / Recup	Activa	Seguridad
+17251	Nubia Eloisa	Aguilar Mendez 525		Atrium: Sotano	Activa	Seguridad
+17256	Jeilyng Orlando	Duarte Gonzalez 1046		Centro II: Tecnologia especial	Activa	Seguridad
+18053	Claudia Patricia	Gutierrez Alvarez 2681		Atrium: Sotano	Activa	Seguridad
+18061	Jose Antonio	Rivas Ruiz 2434		Casa Bolonia: Recuperaciones	Activa	Seguridad
+18085	Solsire del Socorro	Rojas Talavera		Linda Vista: Cajeros	Activa	Seguridad
+18090	Conserje	Linda Vista		Linda Vista: SSBB	Activa	Seguridad
+18092	Claudia	Maltez		Casa Bolonia: Recuperaciones	Activa	Seguridad
+18093	SIBOIF	UAIR		Atrium: Sotano	Activa	Seguridad
+18097	Centro conserje	Suc-Centro 1		Sucursal Centro: Conserje	Activa	Seguridad
+18099	AUDITOR-4	SIBOIF-INVERNIC		Centro II: Tecnologia	Activa	Seguridad
+18100	AUDITOR -3	SIBOIF-INVERNIC		Centro II: Tecnologia	Activa	Seguridad
+18105	Pablo Emilio	Talavera Gonzalez		Centro: Boveda	Activa	Seguridad
+18107	Roberto de Jesus	Lopez Lopez 690		Centro II: Tecnologia	Activa	Seguridad
+18110	Leslie Raul 	Lopez Sanchez 3359		Casa Bolonia: Recuperaciones	Activa	Seguridad
+18115	Rosa Argentina 	Flores Manzanares  3364		Centro II: Tecnologia	Activa	Seguridad
+18130	Yasser Camilo	Rodriguez Espinoza  3055		Centro II: TC Custodia	Activa	Seguridad
+18132	Evertz Xavier	Villegas Bell		Rubenia: Jefes	Activa	Seguridad
+18134	Lester Enrrique	Sanchez Jiron 3352		Centro: Riesgos	Activa	Seguridad
+18139	Pedro Jose	Mora 3346		Centro II: Transporte	Activa	Seguridad
+18151	Jeanina Marisol	Martínez Rodríguez		Centro: Gestion Humana	Activa	Seguridad
+18152	Ethel Maria	Gomez Castro 1741		Americas: oficiales	Activa	Seguridad
+18154	Diana Paola	Gomez Diaz 3000 		CPP: Cajas	Activa	Seguridad
+18157	Jose Francisco	Juarez Sandino		Tesoreria: Oficial Tesoreria	Activa	Seguridad
+18159	Yadira	Lanzas		Veracruz: Cajeros	Activa	Seguridad
+18160	Linda del Socorro	Mendoza Barrera 3394		Casa Bolonia: Recuperaciones	Activa	Seguridad
+18164	Kassandra Eugenia	Castillo Espino 3404		Casa Bolonia: Recuperaciones	Activa	Seguridad
+18173	Mauricio	Padilla Zuniga		Centro II: Invernic	Activa	Seguridad
+18176	Socorro	Rodriguez Diaz		Centro II: Invernic	Activa	Seguridad
+18182	Emilio Jose	Morales Fajardos		Linda Vista: SSBB	Activa	Seguridad
+18188	Danya Liseth	Telleria Calero		Delta: Cajeros	Activa	Seguridad
+18192	Kenia Gisselle	Garcia Guido		Chinandega Oficiales	Activa	Seguridad
+18197	Ricardo Martin	Ortega Espinoza 3408		Centro II: TC Oficiales	Activa	Seguridad
+18205	Jessica Betania	Castro Briceño 3385		Centro II: TC Oficiales	Activa	Seguridad
+18214	Javier Jose 	Jimenez Roman 3391		Casa Bolonia: Recuperaciones	Activa	Seguridad
+18216	Lesther Jose	Ortiz Hernandez 3390		Centro II: Tecnologia	Activa	Seguridad
+18220	Clementina Yahaira	Alvarez Icabalzeta 2494		Casa Bolonia: Recuperaciones	Activa	Seguridad
+18221	Tamara Alpina	Bustamante Vilchez		Centro II: TC Oficiales	Activa	Seguridad
+18233	Millicenth Joseph	Loaisiga Orozco 1281		Centro II: Tecnologia	Activa	Seguridad
+18858	Graciela Francisca	Gonzalez Carrion		Virgen: Jefes	Activa	Seguridad
+18860	Miguel Angel	Castro Almendarez		Centro II: Invernic	Activa	Seguridad
+18864	Tania Elizabeth	Alvarado Estrada 1397		Bolivar: Oficiales Ventas	Activa	Seguridad
+18871	Julio Modesto	Rodriguez Valladares		Atrium: Presidencia	Activa	Seguridad
+18872	Jefe de Turno	Ultranic Atrium		Atrium: Presidencia	Activa	Seguridad
+18876	Maria Jaqueline 	Baca Pallais 3295		Atrium: Sotano	Activa	Seguridad
+18882	Maria Dolores 	Alcoser Brenes 3423		Cedoc: Garantia	Activa	Seguridad
+18901	Claudia Melisa	Davila Otero		Virgen: Cajas	Activa	Seguridad
+18906	Karla Patricia	Zuñiga Matamoros		Delta: Cajeros	Activa	Seguridad
+18907	Katherynne Ixelia	Herrera Jarquin		Delta: Cajeros	Activa	Seguridad
+18909	Salvador Noel	Melendez Aguilar		Tesoreria: Oficial Tesoreria	Activa	Seguridad
+18910	Maria Jose	Aguinaga		Atrium: Sotano	Activa	Seguridad
+18911	Brenda Sofia	Delgado Avellan 3427		Centro: UAIR	Activa	Seguridad
+18913	Carlos Emir	Bonilla Martinez 2222		Casa Bolonia: Recuperaciones	Activa	Seguridad
+18926	Zenayda del Carmen	Rodriguez Navarro		Huembes: Oficiales	Activa	Seguridad
+18933	Oscar Antonio	Sanchez Alonso 3436		Galerias: Cajeros	Activa	Seguridad
+18939	Mayqueline Danesia	Zelaya Sandy		Centro II: CAT	Activa	Seguridad
+18946	Ileana Evangelista	Zamora Rivera 2083		Centro II: CAT	Activa	Seguridad
+18951	Ana Raquel	Pastran Cajina 681		CPP: Cajas	Activa	Seguridad
+18955	Kerik Nicolas	Vanegas Menbreño 3111		Centro: Acceso General	Activa	Seguridad
+18956	Augusto Cesar	Bustamante Urbina 3442		Tesoreria: Oficial Tesoreria	Activa	Seguridad
+18957	Maria Jose	Goldman Siles 3443		Linda Vista: SSBB	Activa	Seguridad
+18959	Maria Margarita	Sanchez Zepeda 381		Atrium: Presidencia	Activa	Seguridad
+18961	Bertha	Ibarra Castellon		Rivas: Oficilaes	Activa	Seguridad
+18970	Liudmila Alexeevna	Catillo Mejia 		Atrium: Sotano	Activa	Seguridad
+18971	Simona del Pilar	Matamoros Aguilar 2991		Chinandega Jefes	Activa	Seguridad
+18974	Roberto Alfonso	Cuadra Talavera		Casa Bolonia: Recuperaciones	Activa	Seguridad
+18978	Guissell del Rosario	Gonzalez Delgado 3453		Casa Bolonia: Recuperaciones	Activa	Seguridad
+18979	Jose David	Chavarria Chavez		Casa Bolonia: Recuperaciones	Activa	Seguridad
+18983	Carlos Daniel	Espinoza Villalobos 2888		Centro II: Auditoria	Activa	Seguridad
+18984	Gonzalo Arnulfo	Soza Angulo 2636		Atrium: Contabilidad	Activa	Seguridad
+18991	Maria Jose	Narvez Gonzalez 3458		Chinandega Cajeros	Activa	Seguridad
+18997	Milagros Auxiliadora	Silva Briceño 3462		Jinotepe: Cajeros	Activa	Seguridad
+19003	Huver Hunnior	Ordoñez Espinoza 3104		Juigalpa:  Cajas	Activa	Seguridad
+19006	Flor de Maria	Umanzor Molina 3464		Esteli: Jefes	Activa	Seguridad
+19008	Gabriela Auxiliadora	Useda Perez 2219		Casa Bolonia: Recuperaciones	Activa	Seguridad
+19009	Sandra Esmeralda	Torres Ortega		Linda Vista: Cajeros	Activa	Seguridad
+19015	Jenny Maria	Rizo Balladares 3465		Atrium: Contabilidad	Activa	Seguridad
+19027	Marvin José	Guevara Salgado 1186		Atrium: Sotano	Activa	Seguridad
+19028	Ericka Elizabeth	Gonzalez Lopez 2840		Centro II: TC Oficiales	Activa	Seguridad
+19029	Jacqueline Patricia	Salinas Brenes 2161		Centro: Operaciones / Recup	Activa	Seguridad
+19030	Maria Teresa	Rocha Ramirez 3140		Centro: Operaciones / Recup	Activa	Seguridad
+19031	Beverling Amada	Amador Lopez 3475		Tipitapa: Oficiales	Activa	Seguridad
+19033	Jomara Alejandra 	Guevara Gutierrez 3204		Centro: Gestion Humana	Activa	Seguridad
+19034	Saul Rigoberto	Caballero Martinez 3476		Centro II: Transporte	Activa	Seguridad
+19035	Patricio Gustavo	Saborio Gonzalez 3477		Atrium: Sotano	Activa	Seguridad
+19039	Grechelt Deberlys	Garcia Mora 3479		Casa Bolonia: Recuperaciones	Activa	Seguridad
+19042	Justo Manuel	Hernandez Acuña 2560		Casa Bolonia: Recuperaciones	Activa	Seguridad
+19048	Angie del Socorro	Alfaro Aguilar 3484		Centro: Operaciones / Recup	Activa	Seguridad
+19050	Manuel 	Suazo Calero 2651		Masaya: Jefes	Activa	Seguridad
+20872	Dany Guido	ULTRANIC		Sucursal Centro: SSBB	Activa	Seguridad
+25256	Bayardo Enrique	Espinales Machado		Centro II: Suministros.	Activa	Seguridad
+25257	Jorge Luis	Tardencilla Leyva 2928 		Centro II: Operadores	Activa	Seguridad
+25260	Yader Saul	Rizo Zeas		Matagalpa: SSBB	Activa	Seguridad
+25261	Karla Emilia	Perez Solis 2629		Centro II: Auditoria	Activa	Seguridad
+25263	Jose Guillermo	Castellon Najares 1699		Centro: Camara	Activa	Seguridad
+25266	Roberto Carlos	Ayala Lanuza 2979		Centro II: Transporte	Activa	Seguridad
+25268	Edelma Yaoska 	Osejo Lezama 3489		Atrium: Contabilidad	Activa	Seguridad
+25269	Yessica Magaly	Centeno Castellon 3491		Bolivar: Oficiales Ventas	Activa	Seguridad
+25270	Jarell Francisco	Gutierrez Guerrero 3494		Centro II: Transporte	Activa	Seguridad
+25271	Martha Elieth	Martinez Sanarrusia 3490		Centro: Acceso General	Activa	Seguridad
+25272	Juan Ramon	Potosme Garcia 3492		Cedoc: Oficiales	Activa	Seguridad
+25274	Jennifer Carolina	Palacios Castillo 3499		Linda Vista: SSBB	Activa	Seguridad
+25275	Rodrigo Rene	Chavarria Paguada 3500		Brisas: Jefes	Activa	Seguridad
+25279	Karen Judith	Meza		Centro II: TC Oficiales	Activa	Seguridad
+25280	Aravesky Argentina	Ruiz Pichardo 2665		Centro II: TC Boveda Custodia	Activa	Seguridad
+25284	Orlando Jose 	Mercado Rodriguez 11 		Centro: UAIR	Activa	Seguridad
+25285	Monzy Aracely	Borjas Castro		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25290	Irene Massiel	Espinoza Campos 3502		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25292	Javiera Jahoska	Huete Mayorga		Bolivar: Oficiales Ventas	Activa	Seguridad
+25293	Yuriel Ernesto	Mendoza Lanza 3503		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25303	Ingrid Massiel	Navarro Cruz		Esteli: Cajeros	Activa	Seguridad
+25306	Dervis Jose	Velasquez Hernandez 3515		Bolivar: Oficiales Ventas	Activa	Seguridad
+25309	Jhordan De Jesus	Aguirre Romero 1949		Chinandega Oficiales	Activa	Seguridad
+25310	Maria Consuelo	Laguna Benavides 3510		Esteli: Cajeros	Activa	Seguridad
+25311	Cristhian Maria 	Perez Rodrigue		Linda Vista: SSBB	Activa	Seguridad
+25324	Vigarny Jose	Alvarado Medrano 		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25325	Perla Massiel	Somarriba Ubeda 3470		Atrium: Contabilidad	Activa	Seguridad
+25330	Eda Susana	Mayorga Mena 2203		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25333	Ana Rosa	Castillo Gutierrez 2927		Centro II: TC Oficiales	Activa	Seguridad
+25334	Leandro Josue	Vanegas Alfaro 3525		Centro II: Tecnologia	Activa	Seguridad
+25342	Yader Gilberto	Narvaez Espinal 3533		Sucursal Centro: Cajeros	Activa	Seguridad
+25343	Suyen de los Angeles	Morraz Ramirez 1541		Atrium: Sotano	Activa	Seguridad
+25344	Filerma Guadalupe	Bravo Solis 3218		Centro: Riesgos	Activa	Seguridad
+25345	Doraldina Elizabeth	Sanchez Cruz 3531		Somoto: SSBB	Activa	Seguridad
+25346	Charlene de los Angeles	Montenegro Morales 3534		Atrium: Sotano	Activa	Seguridad
+25349	Alba Lila	Moreno Talavera 1733		Esteli: Jefes	Activa	Seguridad
+25350	Luciano Francisco	Mendoza Medina 2998 		Galerias: SSBB	Activa	Seguridad
+25351	Meyling Aracely 	Matamoros Maltez 3294		Bolivar: Oficiales Ventas	Activa	Seguridad
+25352	Oscar Armando	Cedeño Almendarez 460		Atrium: Sotano	Activa	Seguridad
+25353	Marlene Asuncion	Nuñez Aguirre 2617		Centro: Acceso General	Activa	Seguridad
+25356	Jennifer Carolina	Rojas Flores 1081		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25357	Delia Maria	Gonzalez Silva 323		Jinotepe: Jefes	Activa	Seguridad
+25358	Carolina	Portobanco Flores 43		Atrium: Presidencia	Activa	Seguridad
+25359	Grace de Guadalupe	Soto Morales 3536		Atrium: Sotano	Activa	Seguridad
+25360	Juan Bosco	Ordoñez Gonzalez 3535		Bolivar: Oficiales Ventas	Activa	Seguridad
+25361	Manuel Alexander	Andino Vanegas 3214		Centro: Camara	Activa	Seguridad
+25362	Tatiana Yali	Guadamuz Diaz 3537		Centro II: TC Custodia	Activa	Seguridad
+25365	Alvaro Antonio	Jarquin Navarrete 2654		Centro II: TC Oficiales	Activa	Seguridad
+25367	Rogelio Joaquin 	Urbina Gutierrez 3539		Centro II: Tecnologia	Activa	Seguridad
+25371	Luisa Elena	Espinosa Bolaños 3541		Virgen: SSBB	Activa	Seguridad
+25372	Jennyfer Edith	Mendoza Fonseca 3543		Altamira: Oficiales	Activa	Seguridad
+25373	Eveling Danelia	Fajardo Obando 3542		Rubenia: PYME	Activa	Seguridad
+25377	Elizabeth del carmen	Berrios Avendaño 3551		Americas: oficiales	Activa	Seguridad
+25381	Valeska Layjany	Loaisiga Rivas 3546		Galerias: Cajeros	Activa	Seguridad
+25385	Felix Antonio	Lopez Tinoco		Centro: Acceso General	Activa	Seguridad
+25386	Maynor Efren	Martinez Blandon 2379		Centro: Cumplimiento	Activa	Seguridad
+25387	Heyda Lorena	Orozco Luna 842		Centro: Riesgos	Activa	Seguridad
+25388	Leyanssy Massiel	Mejia Gutierrez		Centro II: TC Oficiales	Activa	Seguridad
+25389	Galia Maria	Garcia Bassett		Sucursal Centro: Cajeros	Activa	Seguridad
+25393	Meyling Vanessa	Torrealba Morales 3263		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25395	Douglas Augusto 	Soza Torrez 3554		Centro II: Tecnologia	Activa	Seguridad
+25400	Xochil Andrea	Zuniga Perez 2671		Centro: Riesgos	Activa	Seguridad
+25403	Roger Alberto	Valle Campos 2738		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25405	Itza Priscila	Baltodano Mendoza 3558		Centro II: TC Boveda Custodia	Activa	Seguridad
+25406	Gema Gabriela	Szabo Arostegui 3559		Centro II: TC Boveda Custodia	Activa	Seguridad
+25407	Marvin Roberto	Perez Marenco 3084		Centro: Acceso General	Activa	Seguridad
+25410	Henry Jesús	Chamorro Lazo		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25415	Cynthia	Roa Tercero 3568		Ninguno	Inactiva	Seguridad
+25422	Carmen Maria	Bendaña Davila 3567		Virgen: Cajas	Activa	Seguridad
+25423	Ricardo Jose	Vanegas Palmas 80 		Atrium: Sotano	Activa	Seguridad
+25424	Maria Alejandrina	Blanco Mendoza 163 		Centro II: CAT	Activa	Seguridad
+25425	KPMG	Atrium 1		Atrium: Sotano	Activa	Seguridad
+25426	KPMG	Atrium 2		Atrium: Sotano	Activa	Seguridad
+25427	KPMG	Atrium 3		Atrium: Sotano	Activa	Seguridad
+25428	KPMG	Atrium 4		Atrium: Sotano	Activa	Seguridad
+25432	Maria Esperanza 	Cardoza 		Sucursal Centro: Cajeros	Activa	Seguridad
+25434	Meylin Zulema	Araúz Gónzalez		Esteli: SSBB	Activa	Seguridad
+25438	Nestor Carlos 	Valenzuela Cespedes 3311		Bolivar: Oficiales Ventas	Activa	Seguridad
+25443	Nubia Raquel	Torres Palacios 1915		Centro: Riesgos	Activa	Seguridad
+25444	Wendy Margarita	Garcia 1055		Atrium: Presidencia	Activa	Seguridad
+25447	Darwin de Jesus	Guevara Palacios 3584		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25854	Silvia Elena	Flores Flores		Huembes: Oficiales	Activa	Seguridad
+25865	Reynaldo 	Solis Moreira		Metrocentro: Caja	Activa	Seguridad
+25870	Juler Antonio	Aragon Lopez		Bolivar: Oficiales Ventas	Activa	Seguridad
+25872	Wilber Adrian	Sanchez Galo		Sur: Oficiales	Activa	Seguridad
+25877	Jorge Alberto	Torres Gonzalez 3588		Centro II: Tecnologia	Activa	Seguridad
+25878	Carlos Lenin	Ordeñana Delvie 3587		Centro II: Tecnologia	Activa	Seguridad
+25880	Marlon Geovanni	Cordoba Millon 2325		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25883	Yahaira del Carmen	Garcia Juarez 2358		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25886	Jossen Efrain	Sanchez Gutierrez		Atrium: Presidencia	Activa	Seguridad
+25887	Janneth del Socorro	Ruiz 1438		Atrium: Sotano	Inactiva	Seguridad
+25889	Sofia del Carmen	Moreira Lopez		Ciudad Jardin: Cajeros	Activa	Seguridad
+25891	Porfirio Richard	Gonzalez Torrez 1981		CPP: Cajas	Activa	Seguridad
+25893	Wilmer Humberto 	Altamirano Rivera 3591		Masaya: Cafeteria	Activa	Seguridad
+25894	Jefe de Turno	Matriz		Bolivar: ULTRANIC Jefe	Activa	Seguridad
+25895	Jefe de Turno	Suc Centro I		Sucursal Centro: Jefe de Turno	Activa	Seguridad
+25897	Francisco Jose	Mojica Davila 463		Centro: Acceso General	Activa	Seguridad
+25899	Karen Ileana 	Reyes Perez		Atrium: Contabilidad	Activa	Seguridad
+25900	Darling Maria 	Martinez Amador		Centro II: CAT	Activa	Seguridad
+25904	Hilcia Escarleth	Arevalo Centeno 3601		Matagalpa: SSBB	Activa	Seguridad
+25906	David Geovany 	Murillo Morales		Sur: Oficiales	Activa	Seguridad
+25908	Pablo Enrique 	Aburto Perez		Sur: Cafeteria	Activa	Seguridad
+25953	Jonathan Danny	Gonzalez Zeledon 3604		Linda Vista: Jefes	Activa	Seguridad
+25954	Darwing Josue	Reyes Aburto 3603		Tesoreria: Oficial Tesoreria	Activa	Seguridad
+25959	Norman Jose	Lopez Lopez 2136		Tesoria: Jefe de Tesoreria	Activa	Seguridad
+25960	Cristian Jose	Centeno Sevilla 2730		Tesoreria: Oficial Tesoreria	Activa	Seguridad
+25961	Martha Ligia	Lopez Alfaro		Sucursal Centro: Cajeros	Inactiva	Seguridad
+25962	Patricia Esperanza	Diaz Solis 822		Atrium: Presidencia	Activa	Seguridad
+25963	Silvia Amanda	Guadamuz Espinoza 1535		Granada Oficiales	Activa	Seguridad
+25964	Tania Yudith	Rivas Duarte 2430		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25966	Karla Patricia 	Bermudez Quant 1172		Granada Oficiales	Activa	Seguridad
+25968	Yunieth Marbeli	Ortiz Flores 2593		CPP: Cajas	Activa	Seguridad
+25969	Nadiesda Cirama	Araica Estrada		Centro: Riesgos	Activa	Seguridad
+25971	Javier Antonio	Obando Moreno 2737 		Sucursa Centro: Jefes	Activa	Seguridad
+25972	Fernando Jose	Morales Morales 2041		Atrium: Presidencia	Activa	Seguridad
+25975	Alvaro Diego Roberto	Alvarado Tinoco 3609		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25979	Ernesto Isaac	Roman Cruz 3607		Centro: Riesgos	Activa	Seguridad
+25981	Jose Abel	Solis Gutierrez		Rivas: Oficilaes	Activa	Seguridad
+25983	Glenda del Carmen	Agurto Rodriguez 906		Atrium: Presidencia	Activa	Seguridad
+25984	Maria Eleonora	Blandon Silva 2168		Veracruz: Cajeros	Activa	Seguridad
+25985	Johana del Carmen	Garcia		Centro II: TC Oficiales	Activa	Seguridad
+25987	Melba Maria	Lopez Cerrato 1072		Bolivar: Oficiales Ventas	Activa	Seguridad
+25989	Olga Lillyam	Sanchez Sandigo 3608		Casa Bolonia: Recuperaciones	Activa	Seguridad
+25990	Jose Trinidad	Delgado Gaitan 3610		Centro II: Operadores	Activa	Seguridad
+25991	Trino	Alfaro		Centro II: Tecnologia	Inactiva	Seguridad
+25992	Norman Antonio	Alvarez Martinez 2156		Atrium: Sotano	Activa	Seguridad
+25994	Hulda Elisa	Joaquin Ruiz		Americas: oficiales	Activa	Seguridad
+26004	Ana Azucena	Lopez Machado 2973		Centro II: CAT	Activa	Seguridad
+26006	Alvaro Emilton	Rocha Romero 2996		Bolivar: Oficiales Ventas	Activa	Seguridad
+26007	Larissa Yarenis	Corrales Espinales 1507		Centro II: Tecnologia	Activa	Seguridad
+26009	Carlos Moammar 	Gomez Ponce 3615		Centro: Operaciones / Recup	Activa	Seguridad
+26011	Cristian Maria	Arauz Vega 3157		Matagalpa: Cajeros	Activa	Seguridad
+26012	Marling Isabel 	Silva Arcia 3612		Centro II: TC Oficiales	Activa	Seguridad
+26014	Diego Manuel 	Campos Rivas 3614		Centro: Operaciones / Recup	Activa	Seguridad
+26017	Nelson Enrique 	Martinez Sanchez		Tesoreria: Oficial Tesoreria	Activa	Seguridad
+26018	Darling Maria	Montiel 3586		Delta: Jefes	Activa	Seguridad
+26019	Wendy Veronica 	Bello 3618		Centro: Operaciones / Recup	Activa	Seguridad
+26020	Martha Veronica	Torres Martinez 2896		Centro: Boveda	Activa	Seguridad
+26021	Sayra Josefina	Marin Guzman		Bolivar: Oficiales Ventas	Activa	Seguridad
+26025	Berling Abigail	Chavez Carcache 3619		Centro: Acceso General	Activa	Seguridad
+26029	Jose Ulises	Morales Ampie 591		Atrium: Presidencia	Activa	Seguridad
+26030	Sugey de los Angeles	Perez Delgado 3040		Leon: Cafeteria	Activa	Seguridad
+26031	Daniela 	Chacon Bordas 3220		Leon: Cafeteria	Activa	Seguridad
+26034	Conserje Julia	UCA		UCA: Oficiales	Activa	Seguridad
+26035	Karla Patricia	Valerio Sanchez 1221		Atrium: Presidencia	Activa	Seguridad
+26037	Johana Auxiliadora	Cruz Martinez 3623		Casa Bolonia: Recuperaciones	Activa	Seguridad
+26038	Isaac Cresencio	Montano Orozco 3624		Cedoc: Oficiales	Activa	Seguridad
+26039	Roberto Antonio	Salas Navarro		Casa Bolonia: Recuperaciones	Activa	Seguridad
+26040	Vania Anabell	Guido Corea 3625		Casa Bolonia: Recuperaciones	Activa	Seguridad
+26041	Gloria Elizabeth	Castillo Ocon 3627		Bolivar: Oficiales Ventas	Activa	Seguridad
+26042	Nimia Argentina	Acosta Lopez		Centro II: CAT	Activa	Seguridad
+26043	Bayardo Agustin	Castillo Matus		Atrium: Sotano	Activa	Seguridad
+26044	Ennio Coronado	Aleman Conrado 3629		Centro II: Tecnologia especial	Activa	Seguridad
+26045	Edwing Alexander 	Martinez Rivera 3602		Chinandega Cajeros	Activa	Seguridad
+26046	Aydalina	Rayo Rojas 1245		Centro: Boveda	Activa	Seguridad
+26047	Diana Guadalupe	Balladares Perez 2399		Americas: oficiales	Activa	Seguridad
+26049	Silvio Jose	Turcios Vargas		Galerias: Cajeros	Activa	Seguridad
+26901	Ivette Esther	Cajina Sandino		Americas: oficiales	Activa	Seguridad
+26904	Silvana Ruth	Quintero 2953		Centro II: TC Oficiales	Activa	Seguridad
+26905	Nelson Enrique	Duarte Cortez 3093		Cedoc: Garantia	Activa	Seguridad
+26907	Marjorie Lissett	Corea Hernandez 3277		Centro II: CAT	Activa	Seguridad
+26910	Jose Luis	Calero Gonzalez 203		Huembes: Jefes	Activa	Seguridad
+26913	Karla Patricia	Estrada Lanuza 3387		Americas: oficiales	Activa	Seguridad
+26921	Julieta 	Chavez Gradys		Galerias: SSBB	Activa	Seguridad
+26923	Yadira del Carmen 	Rivera Mendoza		Ciudad Jardin: Cajeros	Activa	Seguridad
+26928	Mayendi Rafaela 	Herrera Diaz 3638		Americas: oficiales	Activa	Seguridad
+26929	Natalia Oleana	Salgado Castillo 3264		Centro: Gestion Humana	Activa	Seguridad
+26933	Fernando Jose	Rosales Hurtado 2525		Centro: Riesgos	Activa	Seguridad
+26934	Wilber Arturo	Sanchez Zapata 1276		Centro: Operaciones / Recup	Activa	Seguridad
+26935	Grace/Katerin de los Angeles	Velasquez/Paz Martinez 		Centro: Tarjeta	Activa	Seguridad
+26936	Marjourie Abigail	Rodriguez Tinoco 26936		Centro: Operativos Tarjeta	Activa	Seguridad
+26937	Ericka Jessenia	Molina Lopez 2471		Centro: Riesgos	Activa	Seguridad
+26938	Luis Manuel	Chavez Flores 2815 		Centro II: Tecnologia especial	Activa	Seguridad
+26940	Elias Antonio	Gonzalez Estrada 3648		Centro II: Auditoria	Activa	Seguridad
+26941	Fajgri Isai	Espinoza Tercero		Centro II: Tecnologia	Activa	Seguridad
+26945	Ronaldo Jose	Sotelo Hodgson 2362		Centro: Riesgos	Activa	Seguridad
+26946	Jose Ernesto	Rosales Cruz 2080		Atrium: Sotano	Activa	Seguridad
+26947	Janiva Valeria 	Duarte Campos		Brisas: SSBB	Activa	Seguridad
+26948	Reynaldo David 	Gonzalez Urroz		Casa Bolonia: Recuperaciones	Activa	Seguridad
+26952	Julio Francisco	Gow Chacon 1037		Atrium: Sotano	Activa	Seguridad
+26953	Marcela Del Carmen	Orozco Juarez 3621		Atrium: Finanzas	Activa	Seguridad
+26954	Conserje	Sebaco		Sebaco: Oficiales	Activa	Seguridad
+26955	Maria Auxiliadora	Molina 2252		Atrium: Presidencia	Activa	Seguridad
+26956	Jilma Maria	Lopez Ruiz 3652		Bolivar: Oficiales Ventas	Activa	Seguridad
+26958	Mario Jose	Zelaya Obregon 3650		Centro: Operaciones / Recup	Activa	Seguridad
+26959	Luis Enrique	Montoya Jarquin 3653		Centro II: Tecnologia	Activa	Seguridad
+26962	Fernando Josue 	Velez Gomez 3657		Granada Oficiales	Activa	Seguridad
+26964	David Josue 	Martinez Campos 3658		Jinotepe: Cajeros	Activa	Seguridad
+26965	Michel Alexander	Reyes Palacios		Sucursal Centro: SSBB	Activa	Seguridad
+26966	Luis Alberto	Jiron Duran 2104		Tipitapa: Jefes	Activa	Seguridad
+26968	Andrea Lucia	Rojas Ortega		Bolivar: Oficiales Ventas	Activa	Seguridad
+26969	Roberto Jose	Rodriguez Flores 3114		Centro: Acceso General	Activa	Seguridad
+26971	Haidy Adela	Diaz Lazo		Bolivar: Oficiales Ventas	Activa	Seguridad
+26972	Maryan Magdiel	Villagra Zeledon 2666		Matagalpa: SSBB	Activa	Seguridad
+26973	Roberto Carlos	Lopez Calderon 3156		Jinotepe: Jefes	Activa	Seguridad
+26974	Carolina	Pineda Zeledon 891		Atrium: Presidencia	Activa	Seguridad
+26975	Vania Mercedes	Ruiz Mondragon 3143		Centro II: Auditoria	Activa	Seguridad
+26977	Carlos Jose	Mejia Garcia 717		Atrium: Presidencia	Activa	Seguridad
+26978	Yasary Lubeska	Cruz Vindell 2095		Huembes: Jefes	Activa	Seguridad
+26979	Yodania de los Angeles	Lopez Urbina		Huembes: Oficiales	Activa	Seguridad
+26980	Edgard Domingo	Rostran Solorzano 2863 		Centro: Riesgos	Activa	Seguridad
+26981	Francisco Ramon	Arauz Rodriguez 1179		Centro II: Auditoria	Activa	Seguridad
+26984	Silvia Lucia	Matus Baldizon 2254		Atrium: Presidencia	Activa	Seguridad
+26985	Maria Auxiliadora	Lopez Gurdian 3668		Galerias: SSBB	Activa	Seguridad
+26986	Yessenia Yahoska 	Lopez Bustos 3666		Rivas: Oficilaes	Activa	Seguridad
+26988	Betania Taliza	Galea Arriola 		Casa Bolonia: Conserje	Inactiva	Seguridad
+26993	Daniela Soledad	Balladares Abaunza 3659		Atrium: Sotano	Activa	Seguridad
+26998	Reyna Veronica	Contreras Lopez 1311		Centro: Riesgos	Activa	Seguridad
+26999	Conserje	Casa Bolonia		Casa Bolonia: Conserje	Activa	Seguridad
+27000	Conserje	San Juan del Sur		SanJuanSur:Oficiales	Activa	Seguridad
+27853	Lucia del Carmen	Ordeñana Cerda 344		Atrium: Sotano	Activa	Seguridad
+27855	Adolfo Trinidad	Perez Hudiel 2936 		Bolivar: Oficiales Ventas	Activa	Seguridad
+27857	Jose Jania	Alvarado 1750		Bolivar: Oficiales Ventas	Activa	Seguridad
+27859	Santos Dayton	Zamora Chamorro 3297		Bolivar: Oficiales Ventas	Activa	Seguridad
+27862	Ariana Rebeca	Gonzalez Sierra 2373		Atrium: Sotano	Activa	Seguridad
+27864	Mercedes Raquel	Hurtado Berrios 3783		Centro: Operaciones / Recup	Activa	Seguridad
+27865	Kathya Vanessa	Arauz 3785		Centro II: TC Oficiales	Activa	Seguridad
+27866	Rosario Lisbeth	Molina Hernandez 3786		Atrium: Sotano	Activa	Seguridad
+27868	Michel de los Angeles 	Bonilla Gutierrez 3782		Cedoc: Oficiales	Activa	Seguridad
+27869	Maria Felicia	Otero Castiblanco 1925		Atrium: Sotano	Activa	Seguridad
+27870	Claudia Maria 	Espinoza		Americas: oficiales	Activa	Seguridad
+27872	Johana del Carmen	Campos 3402		Juigalpa:  Cajas	Activa	Seguridad
+27874	Cynthia Tatiana	 Morales Serrano		Atrium: Sotano	Activa	Seguridad
+27876	Jose Andres	Orozco Morales 2860		Centro II: Tecnologia	Activa	Seguridad
+27879	Mauricio Boniek	Canales Vanegas 3312		Casa Bolonia: Recuperaciones	Activa	Seguridad
+27880	Martha Isabel	Ruiz Reyes 2859		Altamira: Oficiales	Activa	Seguridad
+27882	Stella	Solis Cuadra 3789		Atrium: Sotano	Activa	Seguridad
+27883	Michelle de los Angeles	Gallegos		Centro II: Tecnologia	Activa	Seguridad
+27884	Francheska Carolina	Lopez Lopez 3791		Masaya: Cajas	Activa	Seguridad
+27886	Indira Lorena	Gonzalez Urrutia 3796		Matagalpa: SSBB	Activa	Seguridad
+27887	Majandell Fernanda 	Mercado Arana 3795		Linda Vista: SSBB	Inactiva	Seguridad
+27889	Walter Enrique	Lopez Gonzalez 3790		Metrocentro: Jefes	Activa	Seguridad
+27890	Yader  Francisco 	Montenegro Flores 3798		Cedoc: Oficiales	Activa	Seguridad
+27892	Conserje	La Virgen		Virgen: Conserje	Activa	Seguridad
+27894	Jery Francisco	Guadamuz Mayorga 3155		Linda Vista: Jefes	Activa	Seguridad
+27895	Reyna Isabel	Luna Urbina 3036		Rubenia: PYME	Activa	Seguridad
+27896	Tania Jose	Garcia Cardenas 3356		Cedoc: Garantia	Activa	Seguridad
+27897	Aura Esthela	Morales Orozco		Galerias: Cajeros	Activa	Seguridad
+27899	Jasson Homero	Quiroz Orozco 3282		Centro II: CAT	Activa	Seguridad
+27900	Aura Lisseth	Ramos Cano 2392		Sucursal Centro: SSBB	Activa	Seguridad
+27901	Nora Emilia	Vargas Duran 1127		Centro: Operativos Tarjeta	Activa	Seguridad
+27904	CLARISA RAMOS 	LEON. CONSERJE SERLISA		Leon: Cafeteria	Activa	Seguridad
+27905	Vladimir Ilish	Vargas Miranda 3802		Ciudad Jardin: Jefes	Activa	Seguridad
+27907	Samantha Sabrina 	Sequeira Solorzano 3801		Linda Vista: SSBB	Activa	Seguridad
+27911	Claudia Mariana	Cisneros Molina 3276		Centro: Back Office	Activa	Seguridad
+27912	Lester Javier	Gerrero Baltodano 2099		Delta: Cajeros	Activa	Seguridad
+27914	Melissa Massiel	Mendoza Mendez 2500		Sucursal Centro: SSBB	Activa	Seguridad
+27915	Meggy Patricia	Lopez Henriquez 1672		Centro II: TC Oficiales	Activa	Seguridad
+27916	Carlos Xavier	Alguera Rivas 2072		Centro: Gestion Humana	Activa	Seguridad
+27917	Alexandra Xiomara	Juarez Mairena 3808		Atrium: Sotano	Activa	Seguridad
+27919	Belkys Massiel	Espinoza Jarquin 3807		Linda Vista: Cajeros	Activa	Seguridad
+27922	Kenia Arely	Davila Gonzalez 3812		Metrocentro: Caja	Activa	Seguridad
+27923	Fernanda Nohelia	Urbina Casco 3804		Chinandega Cajeros	Activa	Seguridad
+27925	Gema de los Angeles	Sanchez Calero 3811		Veracruz: Jefes	Activa	Seguridad
+27926	Grethel Cristhina	Martinez Peñalba 3805		Chinandega Cajeros	Activa	Seguridad
+27927	Edmundo Jose	Nicaragua Loaisiga 3814		Centro: Operativos Tarjeta	Activa	Seguridad
+27928	Felix Marcelino	Zapata Mena 3815		Centro: Operativos Tarjeta	Activa	Seguridad
+27929	Jonathan Antonio 	Sobalvarro Montoya 3299		Casa Bolonia: Recuperaciones	Activa	Seguridad
+27930	Javiera Maria 	Alfaro Gutierrez 1874		Centro II: Auditoria	Activa	Seguridad
+27931	Lester Antonio	Gonzalez Mendoza 2516		Centro II: Auditoria	Activa	Seguridad
+27933	Wilmor David	Vasquez Matus 3384		Centro II: TC Oficiales	Activa	Seguridad
+27935	Nadine del Socorro	Vado Ocon 908		Centro: Acceso General	Activa	Seguridad
+27940	Maria Gabriela	Icabalzeta Villalta 1819		Casa Bolonia: Recuperaciones	Activa	Seguridad
+27941	Xiomara Mercedes	Blandon Centeno 2035		Centro: Riesgos	Activa	Seguridad
+27942	Conserje* Guadalupe Perez	Las Americas		Americas SSBB	Activa	Seguridad
+27945	Amalia Monserrat	Aguilar Ortiz 2986 		Atrium: Sotano	Activa	Seguridad
+27946	Pedro Javier	Garcia Corea 1423		Centro II: TC Oficiales	Activa	Seguridad
+27948	Anna Alexandra	Fonseca Rivera 632		Altamira: Jefes	Activa	Seguridad
+27949	Esmirna Liseth	Victor Villareal 3242		Galerias: Cajeros	Activa	Seguridad
+28052	Yessenia Carolina	Torres Selva 3118		Esteli: Jefes	Activa	Seguridad
+28053	Marena Sujey	Canales Hernandez 3063		Esteli: Cajeros	Activa	Seguridad
+28054	Brenda Azucena	Davila Oliva 3368		Esteli: Cajeros	Activa	Seguridad
+28055	Virginia del Carmen	Rugama Fornos 2728		Esteli: SSBB	Activa	Seguridad
+28056	Maritza Tatiana	Herrera Gomez 3123		Esteli: SSBB	Activa	Seguridad
+28058	Roger Antonio	Garcia Matey 2884		Centro II: Tecnologia especial	Activa	Seguridad
+28061	Maria Jose 	Torres Blandon 3719		Esteli: Cajeros	Activa	Seguridad
+28062	Martha Lorena	Mairena Urbina 2506		Rubenia: Oficiales	Activa	Seguridad
+28064	Oscar Danilo	Morales Duarte 630		Atrium: Sotano	Activa	Seguridad
+28067	Carlos Arturo	Rojas Sequeira 3722		Atrium: Sotano	Activa	Seguridad
+28068	Jessica Alexandra 	Martinez Torres 3723		Casa Bolonia: Recuperaciones	Activa	Seguridad
+28070	Jairo Jose 	Saravia Buitrago 3725		Centro: Operaciones / Recup	Activa	Seguridad
+28071	Wilmar Francisco	Martinez Urbina 3726		Casa Bolonia: Recuperaciones	Activa	Seguridad
+28073	Ramon	Paguada		Atrium: Sotano	Activa	Seguridad
+28077	Jazmil Jose	Narvaez Suarez 3728		Norte: Cajeros	Activa	Seguridad
+28081	Maynor Augusto	Bolaños Andino 1724		Centro II: Tecnologia	Activa	Seguridad
+28082	Maria Elena	Lopez Ampie 1302		Centro II: Tecnologia	Activa	Seguridad
+28083	Ramiro de Jesus	Cuadra Cardenal 2788		Atrium: Sotano	Activa	Seguridad
+28089	Martha Jeanet	Zamora Tijerino 606		Rivas: Oficilaes	Activa	Seguridad
+28090	Yaoska Gabriela	Villagra Manzanarez 2823 		Rivas: Oficilaes	Activa	Seguridad
+28091	Claudia Massiel	Duarte Baca 3318		Leon: Cajas	Activa	Seguridad
+28092	Guillermo Ernesto	Perez Cuadra 1775		Centro II: Tecnologia	Activa	Seguridad
+28093	Karla Vanessa 	Sanchez Vasquez 3239		Metrocentro: Caja	Activa	Seguridad
+28094	Aracely del Carmen	Mendez Ruiz 3411		Centro: Operaciones / Recup	Activa	Seguridad
+28095	Hilda Carolina 	Bolaños Avelar 3735		Centro II: TC Oficiales	Activa	Seguridad
+28097	Yuri Antonio 	Espinoza 3736		Rubenia: PYME	Activa	Seguridad
+28098	Audrey Massiel	Arauz Rizo 2247		Chinandega Jefes	Activa	Seguridad
+28102	Daryl Josue	Osejo Vargas 2943 		Cedoc: Oficiales	Activa	Seguridad
+28105	Serlisa	Serlisa		Galerias: SSBB	Activa	Seguridad
+28107	Darling Arelys	Hernandez Ruiz 2250 		Centro: Camara	Activa	Seguridad
+28109	Hugo Hernaldo	Selva Espinoza 2673		Centro II: TC Oficiales	Activa	Seguridad
+28113	German Gabriel	Meza Montiel 3339		Cedoc: Oficiales	Activa	Seguridad
+28115	Iris Johana	Mondragon Oviedo 1582		Chinandega Oficiales	Activa	Seguridad
+28117	Laura Elena	Norori Reyes		Bolivar: Oficiales Ventas	Activa	Seguridad
+28119	Ronaldo Jose 	Briceño Mendieta 3634		Sur: Jefes	Activa	Seguridad
+28120	Katherin Celeste	Mondragon  3472		Somoto: Oficiales	Activa	Seguridad
+28121	Luby Nohemi	Gonzalez 3579		Somoto: Oficiales	Activa	Seguridad
+28123	Conserje	Norte		Norte: SSBB	Activa	Seguridad
+28125	Melida	Linarte Vaca 2126		Leon: Cajas	Activa	Seguridad
+28126	Ulises Antonio	Cruz Morales 3740		Centro II: CAT	Activa	Seguridad
+28127	Carlos Alberto	Guzman Guerrero 2952		Centro II: Tecnologia	Activa	Seguridad
+28128	Karla Patricia 	Tapia Hernandez 3363		Casa Bolonia: Recuperaciones	Activa	Seguridad
+28129	Erick Alejandro	Garcia Alfaro 2690		Casa Bolonia: Recuperaciones	Activa	Seguridad
+28132	Otoniel	Perez Garcia 1032		Centro: Acceso General	Activa	Seguridad
+28134	Jeimy Nalitsy	Rostran Ocampo 3345		Tipitapa: Oficiales	Activa	Seguridad
+28135	Maria Jose	Jiron Guadamuz 3439		Centro: Operaciones / Recup	Activa	Seguridad
+28137	Maria de la Concepción 	Zamuria Araica 2977		Americas SSBB	Activa	Seguridad
+28138	Johana Isabel	Saravia Silva 2988		Centro II: Auditoria	Activa	Seguridad
+28143	Lester Adolfo	Jarquin 3742		Centro: Operaciones / Recup	Activa	Seguridad
+28144	Elvis Moises	Noguera Cuadra 2954 		Master	Activa	Seguridad
+28145	Juana María	Estrada Flores		Norte: Cajeros	Activa	Seguridad
+28146	Helia Maria	Romero Zeledon 2767 		Atrium: Sotano	Activa	Seguridad
+28148	Julio Adan	ULTRANIC		Centro: Operaciones / Recup	Activa	Seguridad
+28149	Vanessa del Carmen 	Robleto Amador 3748		CPP: Cajas	Activa	Seguridad
+28150	Freddy Antonio 	Gonzalez Sanchez 3743		Masaya: Jefes	Activa	Seguridad
+28151	Maria Raquel	Lopez Lopez 3744		Esteli: Cajeros	Activa	Seguridad
+28153	Judith Esther	Meza Zuniga		Norte: Cajeros	Activa	Seguridad
+28154	Carlos Rene	Acuña Serrano		Metrocentro: Caja	Activa	Seguridad
+28155	Manuel Benito	Salvatierra Rivera 2753		Centro: Acceso General	Activa	Seguridad
+28156	Belen Maria 	Urbina Munguia 954		Centro: Acceso General	Activa	Seguridad
+28157	Abel Josue	Salgado Martinez 3202		Bolivar: Oficiales Ventas	Activa	Seguridad
+28158	Lenin Antonio	Peralta Mayorga 1610		Centro II: Auditoria	Activa	Seguridad
+28160	Valeria Lisseth	Caceres Castillo 943		Atrium: Sotano	Activa	Seguridad
+28163	Yanina del Socorro	Lanza Aragon Personal Outsorci		Cedoc: Oficiales	Activa	Seguridad
+28164	Jose Luis	Lopez 		Centro II: Transporte	Activa	Seguridad
+28166	Luis Alberto	Tapia Alvarado  3278		Rubenia: PYME	Activa	Seguridad
+28174	Jenny Graciela	Rivera 1928		Centro: Gestion Humana	Activa	Seguridad
+28177	Luciana 	Montiel Vivas 3636		Sur: Oficiales	Activa	Seguridad
+28178	Denis Josue 	Ruiz Rizo 3749		Casa Bolonia: Recuperaciones	Activa	Seguridad
+28179	Jaime Emigdio 	Espinoza Roque 3752		Centro: UAIR	Activa	Seguridad
+28184	Hazel Nohemi	Castellon Lopez 3879		Atrium: Sotano	Activa	Seguridad
+28186	Maria Elena 	Gaitan		Casa Bolonia: Recuperaciones	Activa	Seguridad
+28188	Samuel Cristhofer 	Grant Aguilera 3762		CPP: Cajas	Activa	Seguridad
+28189	Stephanie Adilia	Rivera Castillo 3754		Leon: Cafeteria	Activa	Seguridad
+28190	Vilma Rosa 	Robleto Ortiz 3755		Sur: Oficiales	Activa	Seguridad
+28191	Morena Guadalupe	Castillo Rugama 3760		Leon: Cafeteria	Activa	Seguridad
+28193	Miguel Angel	Caballero Roda 3141		Casa Bolonia: Recuperaciones	Activa	Seguridad
+28194	Pedro Leonel	Martinez Mejia 2143		Master	Activa	Seguridad
+28195	Edwin Enrique	Santana Rodriguez 3176		Casa Bolonia: Recuperaciones	Activa	Seguridad
+28196	Karelia Vanessa	Rios Blandon 3763		Centro II: TC Oficiales	Activa	Seguridad
+28200	Johanna Maria	 Reyes Lopez		Casa Bolonia: Recuperaciones	Activa	Seguridad
+28201	Heidi Patricia	 Orozco Barboza		Casa Bolonia: Recuperaciones	Activa	Seguridad
+28202	Grethel Lissett	Largaespada Juarez 1762		Centro II: Suministros.	Activa	Seguridad
+28203	Ana Maria	Briceño Lopez 2900		Centro II: Auditoria	Activa	Seguridad
+28204	Heidi Patricia	Orozco Barboza 3766		Huembes: Oficiales	Activa	Seguridad
+28205	Katherine Isabel	Gonzalez Martinez 2501		Atrium: Sotano	Activa	Seguridad
+28206	Cristian	Lopez Carcache		Bolivar: Oficiales Ventas	Activa	Seguridad
+28207	Conserje	Centro I - Riesgo		Centro: Operaciones / Recup	Activa	Seguridad
+28210	Conserje 	Centro I - Administracion		Centro: Conserje	Activa	Seguridad
+28211	Inka	Lacayo Davila 		Atrium: Sotano	Activa	Seguridad
+28212	Rosa Margarita 	"Garcia Galeano CONSERJE"""""		Atrium: Sotano	Activa	Seguridad
+28216	Aida Marbelhy	Ortega Morales 3768		Centro: Operaciones / Recup	Activa	Seguridad
+28218	Jackeline Valeria 	Caballero Calderon 3775		Americas: oficiales	Activa	Seguridad
+28219	Virginia Concepcion 	Espinoza Martinez 		Metrocentro: Caja	Activa	Seguridad
+28222	Juniett del Carmen 	Urbina Betancourt 3771		Leon: Cajas	Activa	Seguridad
+28227	Karen Johanna	Kathin Chavarria 3544		Sucursal Centro: SSBB	Activa	Seguridad
+28228	Maria Natalia	Arguello Fava 846		Atrium: Sotano	Activa	Seguridad
+28229	Jaime Alberto	Altamirano Ramirez 1551		Atrium: Presidencia	Activa	Seguridad
+28230	Marcos Herminio	Perez Alvarez 2846		Juigalpa: Cafeteria	Activa	Seguridad
+28232	Jairo Danilo	Gutierrez Barquero 180 		Atrium: Finanzas	Activa	Seguridad
+28234	Julio Cesar	Noguera Gonzalez 3166		SanJuanSur: Jefes	Activa	Seguridad
+28236	Lester Humberto	Acevedo Montano 3778		Casa Bolonia: Recuperaciones	Activa	Seguridad
+28238	Penlly Fabiola	Parrales Canales 3574		Atrium: Sotano	Activa	Seguridad
+28239	Jose Efrain	Rodriguez Castillo 2895		Atrium: Contabilidad	Activa	Seguridad
+28241	Juan Rodolfo	Lira Cerda 1960		Jinotepe: SSBB	Activa	Seguridad
+28242	Jhony Ramon	Guadamuz Vargas 3779		Casa Bolonia: Recuperaciones	Activa	Seguridad
+28244	Martha Lucia	Herdocia 1236		Centro: Cumplimiento	Activa	Seguridad
+28245	Ana Patricia	Sanchez Hernandez 3781		Americas SSBB	Activa	Seguridad
+28248	Anabelle	Contreras Escobar 2170		Centro: Operaciones / Recup	Activa	Seguridad
+28249	Yessenia Lucia	Lopez Rodriguez 3037		SanJuanSur: Jefes	Activa	Seguridad
+29051	Esperanza del Carmen	Vallecillo Quintana 1036		Galerias: Jefes	Activa	Seguridad
+29052	Nadiezdha Yahoska	Ibarra Gonzalez 3449		SanJuanSur:Oficiales	Activa	Seguridad
+29053	Elizabeth del Carmen	Molina Torrez 134 		Sebaco: Jefes	Activa	Seguridad
+29054	Jessenia Patricia	Hernandez Otero 3424		Sebaco: Oficiales	Activa	Seguridad
+29055	Silver Omar	Garcia Suazo 3406		Matagalpa: Cajeros	Activa	Seguridad
+29056	Laura Patricia	Altamirano Gutierrez 2869 		Sebaco: Oficiales	Activa	Seguridad
+29057	Karla Vanessa	Garcia Martinez 929		Jinotepe: SSBB	Activa	Seguridad
+29059	Ana del Socorro	Davila Garcia 2957		Jinotepe: Cajeros	Activa	Seguridad
+29062	Damaris Samaria	Picado Lopez 4021		Master	Activa	Seguridad
+29065	Sara Elizabeth	Sequeira Castillo 3818		Centro: Operaciones / Recup	Activa	Seguridad
+29066	Monica Nicole	Brenes Vega		Atrium: Sotano	Activa	Seguridad
+29068	Zaida Jacqueline	Guzman Blas 3834		Centro II: TC Oficiales	Activa	Seguridad
+29069	Saskia Eleonora	Gonzalez Medina 3837		Centro II: CAT	Activa	Seguridad
+29071	Anwar Benito	Aragon Izeddin 3833		Centro II: TC Oficiales	Activa	Seguridad
+29072	Kathia Vanessa	Gutierrez Gaitan 3832		Centro II: CAT	Activa	Seguridad
+29075	Ingrid Paola	Zapata Leon 3821		Linda Vista: Cajeros	Activa	Seguridad
+29076	Aracelys del Socorro	Flores Artola 3820		Matagalpa: Cajeros	Activa	Seguridad
+29077	Exar Manuel	Morales 3822		Veracruz: Cajeros	Activa	Seguridad
+29081	Maria Lizamara	Membreño Suarez 3830		Ciudad Jardin: SSBB	Activa	Seguridad
+29082	Joni Alexander	 Bonilla Castellon		Sucursal Centro: SSBB	Activa	Seguridad
+29085	Raquel Emilia	Munguia Membreño 3827		Sucursal Centro: SSBB	Activa	Seguridad
+29086	Doris Rebeca	Reyes Regidor 2755		Tipitapa: Jefes	Activa	Seguridad
+29087	Luis Adolfo	Salgado Gonzalez 2934 		Tipitapa: Oficiales	Activa	Seguridad
+29088	Gina Maria	Sanchez Mairena 2549		Brisas: SSBB	Activa	Seguridad
+29090	Karla Patricia	Obando Gonzalez 1805		Norte: Jefes	Activa	Seguridad
+29091	Nurys Rosaura	Zepeda Benavidez 3418		Norte: SSBB	Activa	Seguridad
+29092	Carlos Alberto	Zuniga Herrera 3100		Norte: Jefes	Activa	Seguridad
+29093	Ramon	Rodriguez Torrez 3112		Norte: Jefes	Activa	Seguridad
+29095	Roberto Orlando	Jerez Espinoza 3208		Bolivar: Oficiales Ventas	Activa	Seguridad
+29096	Tania Karina	Martinez Corea 3519		Centro: Cumplimiento	Activa	Seguridad
+29097	Francisco Javier	Somarriba Cruz 2850 		Linda Vista: Jefes	Activa	Seguridad
+29098	Jose Javier	Perez Estrada 3149		Rubenia: Oficiales	Activa	Seguridad
+29101	Rebeca Scarleth	Sandoval Miranda 3845		Virgen: SSBB	Activa	Seguridad
+29102	Jorge Luis	Davila Alfaro 3035		Centro: Operaciones / Recup	Activa	Seguridad
+29103	Oscar Danilo 	Almendarez Carrasco 3841		Centro: Operaciones / Recup	Activa	Seguridad
+29104	Pablo Antonio	Palma Lopez 543		Leon: Jefes	Activa	Seguridad
+29106	Marcia Elizabeth	Sotelo Navarrete 2374		Atrium: Sotano	Activa	Seguridad
+29108	Patricia Guadalupe	Sanchez Oviedo 592		Granada: Jefes	Activa	Seguridad
+29110	Bianka Valieska	Espinoza Sandino 3445		Granada Oficiales	Activa	Seguridad
+29111	Carmen del Socorro	Castillo Zapata 1921		Centro II: Tecnologia	Activa	Seguridad
+29112	Darwin Antonio	Flores Herrera 3221		Linda Vista: Cajeros	Activa	Seguridad
+29113	Sergio Enrique	Martinez Rivera 919		Atrium: Sotano	Activa	Seguridad
+29114	Ana Jancy 	Varela Moncada  3237		Norte: Cajeros	Activa	Seguridad
+29116	Ana Gabriela	Rayo Reyes 2804		UCA: Jefes	Activa	Seguridad
+29118	Glenda Jose	Noguera Silva 2580		Granada Oficiales	Activa	Seguridad
+29119	Fabiola Auxiliadora	Cisneros Murillo 2926		Granada: Jefes	Activa	Seguridad
+29120	Ultranic	Casa Bolonia		Casa Bolonia: Recuperaciones	Activa	Seguridad
+29121	Cristhian Francisco	Moreno Olivas 3219		Leon: Cafeteria	Activa	Seguridad
+29122	Magda Catalina	Ruiz Espinoza 1859		Leon: Cajas	Activa	Seguridad
+29123	Rafaela Isabel	Acevedo Loasiga 542		Leon: Jefes	Activa	Seguridad
+29124	Karina del Rosario	Rodriguez Garcia 2037		Leon: Cafeteria	Activa	Seguridad
+29125	Concepcion Maria 	Ortiz Hernandez		Centro II: Invernic	Activa	Seguridad
+29126	Martha Regina	Torrez Salgado 2579		Leon: Jefes	Activa	Seguridad
+29127	Elizabeth de los Angeles	Rubi Amador 1820		Leon: Cafeteria	Activa	Seguridad
+29128	Thamayra Banessa	Ponce Espinoza 3420		Somoto: Oficiales	Activa	Seguridad
+29129	Claudia Nataly	Gonzalez Gonzalez 3020		Somoto: SSBB	Activa	Seguridad
+29130	Ingrid Inverna	Lopez Diaz 1804		Somoto: SSBB	Activa	Seguridad
+29132	Aura Maria	Jimenez Ponce 555		Somoto: SSBB	Activa	Seguridad
+29133	Pamela Del Rosario	Somoza Saborio 3350		Sucursal Centro: SSBB	Activa	Seguridad
+29134	Jhon Michael	Dixon Mena 3563		Sucursal Centro: SSBB	Activa	Seguridad
+29135	Norman Humberto	Rodriguez Altamirano 3054		Matagalpa: SSBB	Activa	Seguridad
+29136	Deyvin Joel	Ramirez Chavarria 2798 		Matagalpa: SSBB	Activa	Seguridad
+29137	Roger Amin	Urbina Chavarria 2997 		Matagalpa: Cajeros	Activa	Seguridad
+29138	Denia Mileidis	Lopez Pineda 1687		Matagalpa: SSBB	Activa	Seguridad
+29139	Viviana Raquel	Miranda Saavedra 2741		Matagalpa: Jefes	Activa	Seguridad
+29140	Maria Teresa	Lumbi Diaz 3186		Matagalpa: Jefes	Activa	Seguridad
+29141	Claudia de los Angeles	Marenco Amador 2329		Masaya: Jefes	Activa	Seguridad
+29142	Yosselyn Eunice	Moraga Mayorga 3451		Masaya: Cajas	Activa	Seguridad
+29145	Geovanny Wilmer	Hernandez Moreno 3043		Leon: Jefes	Activa	Seguridad
+29146	Julieth Maria	Castellon Salgado 3840		Galerias: SSBB	Activa	Seguridad
+29148	Fiama  Mariet	Poveda Gutierrez 3839		UCA: Oficiales	Activa	Seguridad
+29149	Ivette del Carmen	Perez Cantillano 3838		Centro: Operaciones / Recup	Activa	Seguridad
+29150	Carmen Maria	Estrada Arauz 2026		Rubenia: Jefes	Activa	Seguridad
+30251	Jorge Issac	Alfaro Serrano 1714		Casa Bolonia: Recuperaciones	Activa	Seguridad
+30252	Oliver Joseh	Blanco Rivera 3669		Tesoreria: Oficial Tesoreria	Activa	Seguridad
+30254	Celene	Mayorga Tellez 3671		Atrium: Contabilidad	Activa	Seguridad
+30257	Dariana Mercedes	Ocampo Arce 1424		Cedoc: Garantia	Activa	Seguridad
+30262	Kenya Rebeca	Rodriguez Rodriguez 3590		Sucursal Centro: SSBB	Activa	Seguridad
+30263	Nubia Eloisa	Aguilar Mendez 525		Atrium: Sotano	Activa	Seguridad
+30265	Presidencia	Pase Especial		Atrium: Presidencia	Activa	Seguridad
+30270	Brenda Margarita	Maradiaga Cuadra 1237		Atrium: Sotano	Activa	Seguridad
+30271	Scarleth Carolina	Davila Lainez 3672		Centro: Operaciones / Recup	Activa	Seguridad
+30275	karen Mariana	Cruz Alfaro 3674		Rubenia: PYME	Activa	Seguridad
+30279	Karla Tatiana	Alvarez Lopez 		Centro: Boveda	Activa	Seguridad
+30280	Eymi Fabiola	Rios Gutierrez 3002		Centro: Acceso General	Activa	Seguridad
+30281	Blanca Vanessa	Alvarado Talavera 3248		Cedoc: Garantia	Activa	Seguridad
+30285	Sandra  	Mendieta Moncada		Delta: Cajeros	Activa	Seguridad
+30286	Brenda Georgina	Melendez Cerda 3481		Atrium: Sotano	Activa	Seguridad
+30287	Cristian Ramon	Valdivia Espinal 2011		Esteli: Cajeros	Activa	Seguridad
+30289	Tania Eloisa	Carrion Masis 2839 		Casa Bolonia: Recuperaciones	Activa	Seguridad
+30292	Marina Soledad	Espinal Espinoza		Leon: Cafeteria	Activa	Seguridad
+30293	Herly Domingo	Rivera Gomez 3403		Atrium: Sotano	Activa	Seguridad
+30294	Alberto Jose	Flores Casaya 3651		Tesoreria: Oficial Tesoreria	Activa	Seguridad
+30295	Fernando Jose 	Barraza Mejia 892		Cedoc: Garantia	Activa	Seguridad
+30296	Mauricio Antonio	Molina Goussen 3188		Bolivar: Oficiales Ventas	Activa	Seguridad
+30300	Roberto Antonio	Ruiz Perez 3325		Casa Bolonia: Recuperaciones	Activa	Seguridad
+30301	Maria Alejandra	Galo 3473		Ciudad Jardin: Cajeros	Activa	Seguridad
+30302	Johanna 	Lamping Sanchez 2467		Virgen: Jefes	Activa	Seguridad
+30303	Marietta del Rosario	Alfaro Zepeda 3316		Virgen: Jefes	Activa	Seguridad
+30304	Bismarck Jose	Guerrero Jarquin 3630 		Huembes: Oficiales	Activa	Seguridad
+30305	Doniel Boanerges	Herrera Rayo 		Centro: Tarjeta	Activa	Seguridad
+30307	Hymara Lisbett	Rueda Sevilla 3681		Sucursal Centro: SSBB	Activa	Seguridad
+30310	Zaira Elizabeth	Rodriguez Castro 3683		Americas SSBB	Activa	Seguridad
+30312	Alvaro Antonio	Castro Perez 2556		Centro: Acceso General	Activa	Seguridad
+30313	Anibal Gabriel	Sirias Valdivia 3142		Atrium: Sotano	Activa	Seguridad
+30315	Javier Isaac	Jarquin Arce 2848		Rubenia: PYME	Activa	Seguridad
+30317	Ruben Ernesto	Payan Buitrago 3334		Centro II: Operadores	Activa	Seguridad
+30320	Judith Estefani	Bermudez Bermudez 3687		Masaya: Cajas	Activa	Seguridad
+30321	Darling Carolina	Cabrera Alvarez 3688		SanJuanSur:Oficiales	Activa	Seguridad
+30325	Lizbeth Massiel 	Somarriba Somarriba 3690		Centro: Boveda	Activa	Seguridad
+30330	Seguridad	ULTRANIC-30330		Centro: Guarda Seguridad	Activa	Seguridad
+30331	Omar de Jesus	Rodriguez Alvarez 1873		Centro II: TC Oficiales	Activa	Seguridad
+30332	Elizabeth Martina	Escorcia Quintero 224		Tesoreria: Oficial Tesoreria	Activa	Seguridad
+30335	Leslie Roberto	Mendoza Siles 3405		Masaya: Cafeteria	Activa	Seguridad
+30336	Linda Jessica	Mejia Sovalbarro 3660		Centro II: CAT	Activa	Seguridad
+30339	Amanda Jose	Torrentes Veyvidea 2983 		Rubenia: PYME	Activa	Seguridad
+30342	Ulises Humberto	Calero Gonzalez 2832		Centro II: Tecnologia	Activa	Seguridad
+30343	Franklin Miguel	Saavedra Baltodano 3235		Centro II: Operadores	Activa	Seguridad
+30344	Mario Alberto	Dumas Martinez 2227		Casa Bolonia: Recuperaciones	Activa	Seguridad
+30346	Raquel Auxiliadora	Tiffer Gutierrez 1232		Centro: Cumplimiento	Activa	Seguridad
+30348	Andrea Tatiana	Arana Escobar 3693		Casa Bolonia: Recuperaciones	Activa	Seguridad
+30350	David Salvador 	Velasquez Ruiz 3696		Casa Bolonia: Recuperaciones	Activa	Seguridad
+30351	Adriana Carolina 	Gurdian Vargas 3694		Atrium: Sotano	Activa	Seguridad
+30353	Marian Guadalupe	Grijalva Rizo		Delta: Cajeros	Activa	Seguridad
+30356	Diana Lucia 	Mendoza 3262		Brisas: SSBB	Activa	Seguridad
+30358	Margio Elias	Rizo Rizo 3228		Norte: SSBB	Activa	Seguridad
+30363	Heidy Olivia	Oliva Bustos 2946		Cedoc: Oficiales	Activa	Seguridad
+30364	Waleska Desiree	Perez Martinez		Centro II: TC Oficiales	Activa	Seguridad
+30365	Carlos Jose	Chavarria Lumbi 3700		Atrium: Sotano	Activa	Seguridad
+30366	Tatiana Carolina	Flores Bermudez 3703		Veracruz: Cajeros	Activa	Seguridad
+30370	Leyla Lucia	Lanuza Vallecillo 3697		Granada Oficiales	Activa	Seguridad
+30371	Mauricio Enrique	Cruz Rivera 		Atrium: Contabilidad	Activa	Seguridad
+30374	Ana Marisol 	Aguilar 3710		Centro II: TC Oficiales	Activa	Seguridad
+30377	Lester David	Gonzalez Trujillo		Casa Bolonia: Recuperaciones	Activa	Seguridad
+30379	Idalia del Carmen 	Padilla Torrez 3712		UCA: Oficiales	Activa	Seguridad
+30380	Lenin Eduardo	Gonzalez Alvarez 3709		Rubenia: PYME	Activa	Seguridad
+30381	Mariela Alejandra	Molina Sanchez 3711		Esteli: SSBB	Activa	Seguridad
+30384	Iveth del Rosario	Ortez Herrera		Brisas: SSBB	Activa	Seguridad
+30385	Chistopher Orlando	Salazar Hurtado 3713		Centro II: Tecnologia	Activa	Seguridad
+30387	Melvin Gerardo 	Portobanco 3715		Casa Bolonia: Recuperaciones	Activa	Seguridad
+30388	Ariel Antonio	Gomez Largaespada 3716		Bolivar: Oficiales Ventas	Activa	Seguridad
+30390	Lenin Adolfo	Juarez Juarez 3717		Casa Bolonia: Recuperaciones	Activa	Seguridad
+30391	Edgard Jesus 	Estrada Silva 3718		Centro II: Operadores	Activa	Seguridad
+30397	Claudia Vanessa	Cruz Moltalvan 374		Centro: Operaciones / Recup	Activa	Seguridad
+30398	Reyna Maria 	Gutierrez Guevara 1629		Centro: Acceso General	Activa	Seguridad
+30399	Roberto Carlos	Sanchez Garcia 2153		Cedoc: Jefes	Activa	Seguridad
+30400	Leonela	Galeano Cruz		Esteli: SSBB	Activa	Seguridad
+30876	Cesar Augusto 	Balladares 1170		Centro: Operaciones / Recup	Activa	Seguridad
+30976	Salvador Antonio	Avendaño Carvajal		Centro: Unidad Especial Recup.	Activa	Seguridad
+30984	Edgard Jose	Rios Celedon 2269		Centro II: Auditoria	Activa	Seguridad
+32951	Rosario 	Hurtado Suarez 292		Atrium: Sotano	Activa	Seguridad
+32952	Eliesi Valeska	Sanchez Moraga 3992		Altamira: Oficiales	Activa	Seguridad
+32954	Nazareth Valeska	Briones Lopez 3994		Esteli: Cajeros	Activa	Seguridad
+32955	Fabiola	Martinez Castillo 3985		Ciudad Jardin: Cajeros	Activa	Seguridad
+32956	Felipe Alejandro	Cuadra Morgan 3982		Sucursal Centro: Cajeros	Activa	Seguridad
+32958	Karen del Socorro	Lopez Lopez 3986		Rubenia: Oficiales	Activa	Seguridad
+32959	Jaritza de los Angeles	Torres Artola 3981		Tipitapa: Oficiales	Activa	Seguridad
+32961	Seydin Yalina 	Leiva		Centro II: Invernic	Activa	Seguridad
+32962	Mayra Judith 	Lara Mora 3995		Casa Bolonia: Recuperaciones	Activa	Seguridad
+32963	Yuder Alexander 	Delgadillo Ortiz 3996		Casa Bolonia: Recuperaciones	Activa	Seguridad
+32964	Karina Julieth 	Ramirez Macias 3998		Centro: Operativos Tarjeta	Activa	Seguridad
+32965	Katherine del Carmen 	Condega Vallejos 3997		Centro: Operativos Tarjeta	Activa	Seguridad
+32966	Iris Jamilet	Sanchez Hernandez 3999		Rubenia: Oficiales	Activa	Seguridad
+32968	Keyling Cristina	Abarca Mayorga 4000		Masaya: SSBB	Activa	Seguridad
+32970	Mercedes Gabriela 	Urbina Orozco 2157		CPP: Cajas	Activa	Seguridad
+32971	Darvin Francisco	Mendoza Cabrera 3030		Centro II: Tecnolog Soport  hw	Activa	Seguridad
+32972	Jose Jose	Sevilla Diaz GBM		Centro II: Tecnologia	Activa	Seguridad
+32974	Carla Daniela 	Gomez Gago 3649		Centro II: TC Oficiales	Activa	Seguridad
+32975	Myriam Joseline	Rayo Contreras 3566		Masaya: Cajas	Activa	Seguridad
+32976	Yariela Valeska 	Nuñez Mejia 3594		Casa Bolonia: Recuperaciones	Activa	Seguridad
+32978	Elmer Jamell	Vasquez Moreno 2201		Chinandega Oficiales	Activa	Seguridad
+32979	Ingrid Marisela	Fernandez Valle 1789		Juigalpa: Jefes	Activa	Seguridad
+32981	Claudia Rebeca	Laguna Zambrana 4005		Brisas: Cajas	Activa	Seguridad
+32982	Elliethe Nohemi	Reyes 4003		Delta: Cajeros	Activa	Seguridad
+32983	Joaquin Alberto	Perez Garcia 4007		Huembes: Oficiales	Activa	Seguridad
+32984	Maria Jose	Fonseca 4006		Sur: Oficiales	Activa	Seguridad
+32985	Julio Cesar 	Mendez Mena 3280		Centro: UAIR	Activa	Seguridad
+32986	Silvia Elena	Mejia Taleno 1586		Cedoc: Garantia	Activa	Seguridad
+32987	Jessica Janethel	Potosme Vazquez 3320		Masaya: SSBB	Activa	Seguridad
+32988	Yessi Nohemi	Lopez 3557		Cedoc: Oficiales	Activa	Seguridad
+32989	Lohany Hizzel 	Martinez 3369		Matagalpa: Cajeros	Activa	Seguridad
+32991	Hazel del Socorro	Murillo Lanuza 4008		Altamira: Oficiales	Activa	Seguridad
+32992	Betsy Aleska	Blandon Aguilar 4009		Delta: Cajeros	Activa	Seguridad
+32994	Karla Lourdes	Chavarria Guardado 4011		Bolivar: Oficiales Ventas	Activa	Seguridad
+32995	Jenniffer Jamillette	Lacayo Rodriguez 4010		Atrium: Sotano	Activa	Seguridad
+32996	Elmer Noe	Lazo Valdivia 4012		Casa Bolonia: Recuperaciones	Activa	Seguridad
+32997	Daybelis de los Angeles	Avellan Montano 4013		Casa Bolonia: Recuperaciones	Activa	Seguridad
+32998	Diana Andreina	Perez Cuadra 4014		Centro II: TC Oficiales	Activa	Seguridad
+32999	Judith del Carmen	Solis Lopez 4015		Centro: Operaciones / Recup	Activa	Seguridad
+33000	Jessica Carolina	Jarquin Rostran 4016		Centro: Operaciones / Recup	Activa	Seguridad
+33001	Karen Valeria	Aguilar Matamoros 4017		Centro: Operaciones / Recup	Activa	Seguridad
+33002	Lourdes Maria	Amaya Galeano 431		Rivas: Jefes	Activa	Seguridad
+33003	Fernando Ernesto 	Obando Laguna 2963		Centro: Operaciones / Recup	Activa	Seguridad
+33005	Amanda Graciela	Zamora Alegria 2135		Centro: Boveda	Activa	Seguridad
+33006	Jossy Elizabeth	Mejia Silva 3983		Galerias: Cajeros	Activa	Seguridad
+33008	Johana del Socorro	Guzman Lopez 3438		Huembes: Oficiales	Activa	Seguridad
+33009	Karla Patricia 	Chevez Alvarado 19		Atrium: Presidencia	Activa	Seguridad
+33011	Karelia 	Huete Cruz 4020		Chinandega Oficiales	Activa	Seguridad
+33012	Damaris Samaria	Picado Lopez 4021		Master	Activa	Seguridad
+33013	Karen de los Angeles	Duarte Cuellar 4022		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33014	Daniel Eduardo	Parajon Aragon 4023		Atrium: Sotano	Activa	Seguridad
+33015	Eveling Jose	Navarro Alvarez 1958		Chinandega Oficiales	Activa	Seguridad
+33016	Jorge Roberto	Solis Garcia 3047		Granada Oficiales	Activa	Seguridad
+33018	Maria Jose	Ruiz Mejia 2821		Centro II: Tecnologia	Activa	Seguridad
+33019	Angela Maria	Obando Peña 3283		Jinotepe: Cajeros	Activa	Seguridad
+33021	Nancy Carolina 	Gallegos Obregon 3076		Metrocentro: Caja	Activa	Seguridad
+33022	Rosa Mercedes	Carrillo Rivera 3134		Chinandega Oficiales	Activa	Seguridad
+33023	Orlando Antonio	Mendez  4024		Atrium: Sotano	Activa	Seguridad
+33025	Maria Idalia	Acevedo Ruiz 4026		Jinotepe: SSBB	Activa	Seguridad
+33027	Anderson Abdiel	Montenegro Matey 		UCA: Oficiales	Activa	Seguridad
+33029	Juan Manuel	Vargas Sanchez 4030		Linda Vista: SSBB	Activa	Seguridad
+33030	Conserje	Rubenia		Rubenia: PYME	Activa	Seguridad
+33031	Alvaro Antonio	Rugama Ordoñez 1719		Centro: UAIR	Activa	Seguridad
+33032	Jose Francisco	Garcia 3379		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33033	Gema Guadalupe	Garcia Blanco 3431		Centro: Boveda	Activa	Seguridad
+33036	Enmanuel Alejandro	fonseca 4033		Rubenia: Oficiales	Activa	Seguridad
+33037	Nestor Jovanny	Perez Flores 2260		Centro II: Tecnologia especial	Activa	Seguridad
+33038	Jacqueline	Gomez Guerrero -SIBOIF		Centro: Cumplimiento	Inactiva	Seguridad
+33039	Alex	Brenes Muller -SIBOIF		Centro: Cumplimiento	Inactiva	Seguridad
+33040	Edgar Antonio	Acuña -SIBOIF		Centro: Cumplimiento	Inactiva	Seguridad
+33041	Mario 	Mendez Tapia -SIBOIF		Centro: Cumplimiento	Inactiva	Seguridad
+33043	Tatiana 	Chavez Padilla		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33044	Celeste	Aguilar Jiron		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33045	Lorna Mercedes	Rodriguez Delgadillo 4034		Centro: Operaciones / Recup	Activa	Seguridad
+33046	Isaura Fabiola	Escorcia Argueda 4035		Centro: Back Office	Activa	Seguridad
+33047	Michael Jose	Rodriguez Chavez 4036		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33048	Jose Carlos	Centeno Silva 4037		Centro: Operaciones / Recup	Activa	Seguridad
+33049	Eveling Adriana	Padilla Guido 4039		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33050	Claudai Isabel	Flores 4038		Bolivar: Oficiales Ventas	Activa	Seguridad
+33051	Wendy Maria 	Sevilla Rivera 4040		Centro: Back Office	Activa	Seguridad
+33052	Dora Amalia	Delgado Reyes 4041		Sur: Oficiales	Activa	Seguridad
+33053	Ana Mercedes 	Rodriguez Vergara 4042		Brisas: Cajas	Activa	Seguridad
+33054	Deborah Esther 	Castrillo Quiroz 3730		Sucursal Centro: Cajeros	Activa	Seguridad
+33057	Pedro Antonio	Peralta Gutierrez 288		Cedoc: Oficiales	Activa	Seguridad
+33058	Yasem Ricardo	López Oporta 4044		Tesoreria: Oficial Tesoreria	Activa	Seguridad
+33059	Michalle de los Angeles	Gallegos Campell 4051		Centro II: Tecnologia	Activa	Seguridad
+33062	Indiana Gardenia	Ramirez 4047		Cedoc: Oficiales	Activa	Seguridad
+33063	Junieth Indira	Obando Obando		Centro II: TC Oficiales	Activa	Seguridad
+33064	Ronny Alexander	Munguia Vivas 4049		Centro II: TC Oficiales	Activa	Seguridad
+33067	Jerry Noel	Rivera Chavarria 4545		Bolivar: Oficiales Ventas	Activa	Seguridad
+33070	Clara 	Saavedra		Centro: Operaciones / Recup	Activa	Seguridad
+33071	Leonardo Antonio	Romero Rodriguez 3750		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33073	Yaser Saddi	Sandino Pineda 3975		Centro II: TC Oficiales	Activa	Seguridad
+33074	Eleana de Fatima	Galvez Berrios		Atrium: Sotano	Activa	Seguridad
+33075	Ellieth Marina 	Martinez Espinoza 3598		Norte: Cajeros	Activa	Seguridad
+33079	Carmen Maria	Espinoza Miranda 4052		Bolivar: Oficiales Ventas	Activa	Seguridad
+33081	Leo Leonel 	Lopez Lumbi		Rubenia: PYME	Activa	Seguridad
+33082	Pamela Ninoska 	Rivera Gomez		Rubenia: PYME	Activa	Seguridad
+33083	Reynaldo Jose	Lorente Fonseca 3357		Centro II: Transporte	Activa	Seguridad
+33085	Brenda Marisela	Martinez Solis 4053		Chinandega Oficiales	Activa	Seguridad
+33086	Leslie Jose	Maradiaga López		Rubenia: PYME	Activa	Seguridad
+33087	Hermes	Zelaya Lugo 184 		Centro: Operaciones / Recup	Activa	Seguridad
+33089	Luis Gabriel 	Garcia Garcia 3412		Cedoc: Garantia	Activa	Seguridad
+33090	Esther Ileana	Picado Silva 3576		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33091	Karla Gioconda	Herrera Cedeño 3482		Centro: Gestion Humana	Activa	Seguridad
+33094	Roger Antonio	Flores Garcia		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33097	Katya Magaly	Sanchez Roa 4054		Centro II: CAT	Activa	Seguridad
+33098	Oscar Daniel	Gomez Rostran		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33099	David Antonio	Melendez Gonzalez 33099		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33103	Maria Esther	Noguera Quezada 3213		Centro: Boveda	Activa	Seguridad
+33104	Jacqueline Yesenia	Reyes Quintanilla 3335		Atrium: Contabilidad	Activa	Seguridad
+33105	Silvio Enmanuel	Irias Toruño 2447		Centro: Acceso General	Activa	Seguridad
+33106	Naroven Antonio	Ruiz Landero 3561		Centro II: Tecnologia	Activa	Seguridad
+33107	Conserje	Centro II		Centro II: Tecnologia	Activa	Seguridad
+33108	Jacqueline del Socorro	Baca Marenco 3501		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33111	Roberto de Jesus	Ramirez Bolaños 4055		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33112	Conserje	Juigalpa		Juigalpa: Cafeteria	Activa	Seguridad
+33113	Jense Massiel 	Rios Ramirez 3792		Norte: Cajeros	Activa	Seguridad
+33115	Maria Luisa	Gonzalez Arauz 3555		Cedoc: Oficiales	Activa	Seguridad
+33116	Claudia Maria	Suazo Chavez 3015 		Centro II: TC Oficiales	Activa	Seguridad
+33119	Jocelin Vanessa	Rugama Miranda 33119		Atrium: Sotano	Activa	Seguridad
+33120	Jose Carlos 	Rivera Martinez 3596		Bolivar: Oficiales Ventas	Activa	Seguridad
+33121	Arlene Lisbeth	Marcia Mora 4074		Sucursal Centro: Cajeros	Activa	Seguridad
+33122	Silvio Tomas	Portocarrero Gurdian 2299		Atrium: Sotano	Activa	Seguridad
+33123	Alejandra Maria	Perez Morales 4073		Metrocentro: Caja	Activa	Seguridad
+33124	Katherine Lineth	Espinoza Andino 4072		Metrocentro: Caja	Activa	Seguridad
+33125	Yeni Escarleth	Martinez Gonzalez 4070		Veracruz: Cajeros	Activa	Seguridad
+33126	Cristhian Rodolfo	Escoto Davila 4069		Chinandega Oficiales	Activa	Seguridad
+33130	Xiomara Sklodowska	Cerda Martinez 4065		UCA: Oficiales	Activa	Seguridad
+33131	Urania Francisca	Flores Avendaño 4064		Sucursal Centro: SSBB	Activa	Seguridad
+33132	Maria Rebeca	Zapata Mayorga 4063		Rivas: Jefes	Activa	Seguridad
+33134	Silvia Elena	Zuniga Pentzke 4061		Virgen: SSBB	Activa	Seguridad
+33135	Eveling Junieth	Mergara Mendoza 4071		Somoto: Oficiales	Activa	Seguridad
+33137	Adonias Antonio 	Palacios Guerrero 3611		Atrium: Presidencia	Activa	Seguridad
+33138	Meyling del Rosario	Meza Lopez 1452		Cedoc: Oficiales	Activa	Seguridad
+33139	Fatima Zurama	Caballero Lopez 3467		Rubenia: Jefes	Activa	Seguridad
+33140	Jose Santos 	Benavides Rocha 4019		Centro: Acceso General	Activa	Seguridad
+33141	Denise Fabiola	Cortez Cornejo 3031		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33142	Mauda Suyen 	Calero Palacios 3640		Delta: Jefes	Activa	Seguridad
+33143	Alexander Antonio	Sandoval Bustos 3212		Virgen: Jefes	Activa	Seguridad
+33144	Lucia Maria	Suazo Marin 4075		Rivas: Oficilaes	Activa	Seguridad
+33145	Maria Jose	Sobalvarro 33110		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33146	Eduard Leopoldo	Mora Alvarado 3673		Rubenia: PYME	Activa	Seguridad
+33150	Sayra Lixamara	Rocha Acevedo 2658		Juigalpa: Cafeteria	Activa	Seguridad
+33951	Omar	Alvarado Sotelo 205		CPP: Cajas	Activa	Seguridad
+33954	Gemma Maria	Bravo Aburto 3456		Sur: Jefes	Activa	Seguridad
+33955	Yobelky Yanina	Salgado Medina 3463		Sur: Oficiales	Activa	Seguridad
+33957	Elyn Marina 	Picado Cruz 1164		Atrium: Sotano	Activa	Seguridad
+33959	Sabri Absalon	Guerrero		CPP: Cajas	Activa	Seguridad
+33961	Frania Mariely	Rodriguez Ponce 2969 		CPP: Cajas	Activa	Seguridad
+33964	Glorielsy de la Cruz 	Gonzalez Suarez 3896		Juigalpa:  Cajas	Activa	Seguridad
+33965	Cyntia Marielena 	Alvarado Narvaez 3600		Linda Vista: Cajeros	Activa	Seguridad
+33968	Giancarlo	Braccio Riguero		Atrium: Presidencia	Activa	Seguridad
+33969	Leda Amparo	Lezama Viskay 216		Tesoria: Jefe de Tesoreria	Activa	Seguridad
+33970	Laiz Pamela	Lacayo Tijerino 3886		Centro: Boveda	Activa	Seguridad
+33973	Yahoska Raquel 	Perez Membreño 2047		CPP: Cajas	Activa	Seguridad
+33975	Rubenia Esther	Moncada Hernandez 2948		Somoto: Oficiales	Activa	Seguridad
+33976	Karen Lisseth	Lopez Barrantes 3793		Somoto: Oficiales	Activa	Seguridad
+33978	Delia Maria	Aguilar Espinoza 762		Centro II: Tecnologia	Activa	Seguridad
+33979	Libeth Marina 	Reyes Gaitan 3897		Linda Vista: Jefes	Activa	Seguridad
+33980	Thamar Antonio	Artola Blandon 3894		Somoto: Jefes	Activa	Seguridad
+33981	Alexi Javier	Gutierrez Silva		Centro II: Tecnologia	Activa	Seguridad
+33982	Jorge Luis 	Reyes Palacios 3898		Centro: Operaciones / Recup	Activa	Seguridad
+33983	Nely del Socorro	Martinez Diaz 3899		Centro: Operaciones / Recup	Activa	Seguridad
+33986	Nieves Karolina	Garcia Garcia 3902		Centro: Operaciones / Recup	Activa	Seguridad
+33987	Christopher Marcelo 	Rivera		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33988	Jonathan Josue	Berrios Vanegas 3904		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33989	Eliezer Caleb	Hernandez Cerda 3905		Centro: Operaciones / Recup	Activa	Seguridad
+33990	Anyelka Marbeli	Cajina Torrez 3906		Rubenia: PYME	Activa	Seguridad
+33991	Norma Elena 	Gadea Garcia 3907		Casa Bolonia: Recuperaciones	Activa	Seguridad
+33993	Tania Vanessa	Gomez Lopez 3909		Centro: Operaciones / Recup	Activa	Seguridad
+33995	Juan Miguel 	Mendoza Oliva 3216		Bolivar: Oficiales Ventas	Activa	Seguridad
+33998	Alma Guadalupe	Cordoba Perez 2132		Bolivar: Oficiales Ventas	Activa	Seguridad
+34002	Carlos Andres	Baldizon Montes 3252		Esteli: Jefes	Activa	Seguridad
+34003	Jose Luis	Guido Guadamuz 2482		Atrium: Sotano	Activa	Seguridad
+34004	Franco Miguel	Gaitan Cedeño 3532		Sucursal Centro: Cajeros	Activa	Seguridad
+34005	Nancy Patricia	Guillen Mayorga 2503		Sur: Oficiales	Activa	Seguridad
+34006	Omar Antonio 	Guerrero Gutierrez 3370		Centro: Operaciones / Recup	Activa	Seguridad
+34007	Marcela Sofia 	Brenes Salazar 3900		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34008	Suyapa Pamela 	Melendez 3910		Galerias: Cajeros	Activa	Seguridad
+34011	Carla Ethel	15 Narvaez Arguello		Atrium: Sotano	Activa	Seguridad
+34012	Osman Bismarck 	Orozco Morales 3753		Centro II: Tecnologia especial	Activa	Seguridad
+34018	Sandra Margarita	Tellez Gonzales 3530		Galerias: Cajeros	Activa	Seguridad
+34019	Gema Fabiola	Palacios Rivera 3522		Virgen: SSBB	Activa	Seguridad
+34020	Engel Josue	Rodriguez Lacayo		Atrium: Finanzas	Activa	Seguridad
+34021	Michael Antonio	Gonzalez Membreño		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34022	Anielka del Carmen 	Espinoza Rodriguez		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34023	Sayonara del Socorro	Munguia Calero		Centro: Operaciones / Recup	Activa	Seguridad
+34024	Julio Cesar 	Quintero Luna		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34025	Katia Elena	Martinez Valerio		CPP: Cajas	Activa	Seguridad
+34026	Ismael José	Baltodano Araica		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34028	Cintya Carolina	Pavon Castillo 3922		Ciudad Jardin: SSBB	Activa	Seguridad
+34030	Mercedes Uvania	Lacayo Flores 3923		Americas: oficiales	Activa	Seguridad
+34031	Ruth Jakarely	Flores Garcia 3924		Virgen: SSBB	Activa	Seguridad
+34032	Mario Oswaldo	Urbina Torrez 3924		Centro II: Transporte	Activa	Seguridad
+34034	Oliver Andrés	Gomez Zamora 3066		Master	Activa	Seguridad
+34035	Martha Arellys 	Molina Picon 3925		Ciudad Jardin: SSBB	Activa	Seguridad
+34037	Sandra Dominga	Miranda Ruiz		Centro II: TC Oficiales	Activa	Seguridad
+34038	Linda Valeska	Mendoza García 3927		Centro II: TC Oficiales	Activa	Seguridad
+34039	Yadira Auxiliadora	Silva Mena 3298		Centro: Operativos Tarjeta	Activa	Seguridad
+34040	Wilber David	Samael Carcache		Centro: Operaciones / Recup	Activa	Seguridad
+34041	Ingrid Ivonne	Somoza Carranza 3930 		Atrium: Sotano	Activa	Seguridad
+34042	Trino	Aguilar		Centro II: Tecnologia	Activa	Seguridad
+34043	Ivonne del Carmen 	Medina		Centro: Operaciones / Recup	Activa	Seguridad
+34044	Musa Alejandro	Farrach Urbina 3215		Centro: Riesgos	Activa	Seguridad
+34045	Adolfo Antonio	Gonzalez Galeano 3341		Centro: Riesgos	Activa	Seguridad
+34046	Alvaro Enrique 	Martinez Gaitan 3933		Centro II: TC Custodia	Activa	Seguridad
+34047	Jorge Luis	Bonilla Guzman 3931		Veracruz: Cajeros	Activa	Seguridad
+34048	Erick David	Bermudez León		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34049	Luis Alfredo	Torres Ocon 3932		Huembes: Oficiales	Activa	Seguridad
+34050	Janneth del Socorro 	Ruiz		Atrium: Sotano	Activa	Seguridad
+34051	Josiemara Massiel	Zapata Ramos		Atrium: Sotano	Activa	Seguridad
+34052	Lissel Francisca	Hernández Ruiz		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34054	Roy Larry	Ardon Icabalceta 3938		Esteli: SSBB	Activa	Seguridad
+34055	Alexander Antonio 	Castillo Diaz 3940		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34056	Erving Ezequiel 	Velasquez Molina 3942		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34058	Jeniffer Fernanda 	Hernandez Lopez 3943		Centro: Operaciones / Recup	Activa	Seguridad
+34059	Marwan Humberto  	Lopez Galo 3939		Bolivar: Oficiales Ventas	Activa	Seguridad
+34060	Tatiana del Carmen	Castro Sanchez 2879		Atrium: Finanzas	Activa	Seguridad
+34061	Tania Vanessa	Jarquin Maradiaga 2669		Centro: Operaciones / Recup	Activa	Seguridad
+34064	Anallancy	Lanuza Benavidez 2618		Centro: Acceso General	Activa	Seguridad
+34065	Jorge Luis	Cardoza Sevilla 2865 		Centro: Acceso General	Activa	Seguridad
+34066	Maria Gabriela	Murillo Martinez 3319		Centro: Riesgos	Activa	Seguridad
+34068	Scarleth Ivania 	Castañeda Abarca 3664		Linda Vista: Cajeros	Activa	Seguridad
+34072	Ligia Elena 	Guevara Mantilla 3433		Veracruz: Cajeros	Activa	Seguridad
+34073	Monica Elette 	Leiva Mendoza 3944		Altamira: Oficiales	Activa	Seguridad
+34075	Maria Alejandra 	Reyes Toruño 3949		Americas SSBB	Activa	Seguridad
+34076	Dariana del Carmen	Flores Mendoza 3950		Sucursal Centro: SSBB	Activa	Seguridad
+34077	Mayling de los Angeles	Martinez Araica 3951		Sucursal Centro: SSBB	Activa	Seguridad
+34078	Josselyn del Rosario	Rivas 3945		UCA: Oficiales	Activa	Seguridad
+34081	Livinton Emilio 	Gonzalez Aragon 3952		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34082	Martha del Rosario	Membreño Poveda 3954		Centro: Operaciones / Recup	Activa	Seguridad
+34084	Jorge Ernesto  	Rivera Madriz 3953		Bolivar: Oficiales Ventas	Activa	Seguridad
+34085	Lesbia	Serlisa-ATRIUM 34085		Atrium: Sotano	Activa	Seguridad
+34086	Hazel Dalieska	Moran Moran 3947		Esteli: Cajeros	Activa	Seguridad
+34088	Edwin Ernesto	Blandon Lacayo 1356		Centro II: Tecnolog Soport  hw	Activa	Seguridad
+34090	Edith Elizabeth	Ramirez Rivera 3516		Centro II: CAT	Activa	Seguridad
+34092	Daysis Massiel	Baez Silva 3956		Centro: Operaciones / Recup	Activa	Seguridad
+34093	Ruddy Salvador 	Guevara Rodriguez 3957		Centro II: Tecnolog Soport  hw	Activa	Seguridad
+34094	Kenia del Carmen	Estrada Acevedo 3961		Centro II: CAT	Activa	Seguridad
+34095	Santiago Jose 	Arteaga Meneses 3962		Centro II: Tecnologia	Activa	Seguridad
+34096	Ninoska Antonieta 	Cano Diaz 3963		Centro II: TC Oficiales	Activa	Seguridad
+34098	Juan Josue	Espinoza Canales 3958		Norte: SSBB	Activa	Seguridad
+34099	David Antonio	Lopez Chavez 3960		Veracruz: Cafeteria	Activa	Seguridad
+34100	Ileana Patricia	Melendez Escoto 3806		Chinandega Cajeros	Activa	Seguridad
+34101	Maira Raquel	Perez Jimenez 3686		Centro II: CAT	Activa	Seguridad
+34103	Pablo Emilio	Salazar 2118		Centro: Acceso General	Activa	Seguridad
+34106	Eugenia del Carmen	Salinas Berroteran 2058		Atrium: Finanzas	Activa	Seguridad
+34109	Meyling Carolina	Davila Novoa 3967		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34110	Carolina del Carmen	Garcia Hernandez3966		Centro: Operaciones / Recup	Activa	Seguridad
+34111	Claudia	Mendez Rizo 3972		Atrium: Sotano	Activa	Seguridad
+34112	Gleysi Vadania 	Garcia 		Centro: Operaciones / Recup	Activa	Seguridad
+34114	Jose Alejandro 	Hurtado Diaz 3969		Centro: Operaciones / Recup	Activa	Seguridad
+34115	Marina del Socorro	Bustos Perez 3971		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34116	Katerin del Carmen	Rodriguez 3973		Centro II: CAT	Activa	Seguridad
+34119	Maria Jose	Morales Rombild  3965		Norte: Cajeros	Activa	Seguridad
+34121	Milagros	Rojas Espinoza 3343		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34122	Marlon Antonio	Lira Lopez 2880		Centro II: Transporte	Activa	Seguridad
+34123	Guerson Zimey	Salgado Gutierrez 3974		Centro: Operaciones / Recup	Activa	Seguridad
+34125	Ronald Aaron	Pravia Reyes 3976		Centro II: Tecnologia	Activa	Seguridad
+34126	Moises Leonel	Cajina Acevedo 3979		Atrium: Sotano	Activa	Seguridad
+34127	Roxana Antonia	Hernandez Narvaez 3978		Virgen: Cajas	Activa	Seguridad
+34128	Silvio Yasser	Reyes Lopez 3977		Sucursal Centro: Cajeros	Activa	Seguridad
+34129	Johana Esperanza	Rocha Rodriguez 3980		Tipitapa: Oficiales	Activa	Seguridad
+34130	Ernesto Jose	Arcia Rivera 2517		Centro: Cumplimiento	Activa	Seguridad
+34132	Karen Itzayana	Moody Martinez 3654		Delta: Cajeros	Activa	Seguridad
+34133	Nestor Antonio	Fornos Berrios 		Centro: Acceso General	Activa	Seguridad
+34135	Lleras Alejandro	Hidalgo Perez 1436		Atrium: Sotano	Activa	Seguridad
+34136	Jose Vicente	Hurtado Gonzalez 2109		Atrium: Sotano	Activa	Seguridad
+34137	Nancy Elizabeth	Fonseca Solorzano 1189		Atrium: Sotano	Activa	Seguridad
+34138	Jose Filiberto	Garcia Paz 2174		Atrium: Sotano	Activa	Seguridad
+34140	Norma Elena	Escorcia Garcia 2451		Centro II: Tecnologia	Activa	Seguridad
+34141	Maritza	Abdalah 3092		Centro: Acceso General	Activa	Seguridad
+34142	Jennyfer Lorena	Bervis Baltodano 3970		Centro: Operaciones / Recup	Activa	Seguridad
+34143	Rebeca 	Rodriguez Altamirano 		Centro: Gestion Humana	Activa	Seguridad
+34144	Rosa Argentina	 Hernandez Sandoval 3987		Centro: Acceso General	Activa	Seguridad
+34145	Claudia Alejandra 	Dávila Navas 3983		Bolivar: Oficiales Ventas	Activa	Seguridad
+34146	Isaac Pier 	Gutiérrez Benavidez 3889		Cedoc: Oficiales	Activa	Seguridad
+34148	Katherine Valezka 	Vallecillo Velasquez		Bolivar: Oficiales Ventas	Activa	Seguridad
+34149	Milton Antonio	Barrera Moraga 2899 		Centro II: Transporte	Activa	Seguridad
+34150	Ruth Isamar  	Martinez Peralta 3846 		Ciudad Jardin: Cajeros	Activa	Seguridad
+34302	Auditor	KPMG		Atrium: Sotano	Activa	Seguridad
+34366	Conserje Oneyda	SERLISA Granada		Granada Oficiales	Activa	Seguridad
+34387	Conserje	Presidencia		Atrium: Presidencia	Activa	Seguridad
+34453	Heyling Veronica	Arguello Salgado 3571		Virgen: Cajas	Activa	Seguridad
+34454	Ivania  Vaneska	Jimenez Reyes 2134		Virgen: Cajas	Activa	Seguridad
+34456	Javier Antonio	Rivas Ojeda  3152		Virgen: Cajas	Activa	Seguridad
+34458	Uziel Daniel	Lopez Rayo 3883		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34459	Marjorie Carolina	Vado Ramos 3881		CPP: Cajas	Activa	Seguridad
+34461	Francisco Ramon 	Sandoval Lopez 3884		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34462	Ervin Francisco 	Pereira Betancourt 3885		Leon: Cafeteria	Activa	Seguridad
+34463	Damaris Sofia 	Romero 3882		Centro: Operaciones / Recup	Activa	Seguridad
+34464	Katherin Bisset 	Ortega Gonzales 3889		Sucursal Centro: SSBB	Activa	Seguridad
+34466	Meyling Yunieth 	Davila Vasquez 3890		Esteli: SSBB	Activa	Seguridad
+34469	Maria Milagros	Gutierrez Corea 3887		Galerias: SSBB	Activa	Seguridad
+34471	Carolina Valeska 	Chavarria Espinoza 3888		Altamira: Oficiales	Activa	Seguridad
+34473	Jose Daniel	Ramirez Rivera 3185		Metrocentro: Jefes	Activa	Seguridad
+34475	Maria Angelica	Silva Flores 3266		Veracruz: Jefes	Activa	Seguridad
+34477	Abraham Angello	Palacios Gonzalez 3109		Cedoc: Oficiales	Activa	Seguridad
+34483	Nestor Jovanny	Perez Flores 2260		Centro II: Tecnologia especial	Activa	Seguridad
+34485	Osiris Alejandra	Arcia Cervantes 2765 		Centro II: CAT	Activa	Seguridad
+34486	Centro 	Guarda		Centro: Operaciones / Recup	Activa	Seguridad
+34487	Mario José Méndez Tapia 	Sipar 5 - Inspección PLD/FT		Centro: Operaciones / Recup	Activa	Seguridad
+34488	Edwin Jose	Esrrada Velasquez		Atrium: Contabilidad	Activa	Seguridad
+34489	Silvia del Carmen	Villachica Hernandez 3095		Americas: oficiales	Activa	Seguridad
+34490	Alfredo Cesar	Roque Ponce 3878		Bolivar: Oficiales Ventas	Activa	Seguridad
+34491	Neysi Vanessa	Aguilera Izaguirre		Centro: Operaciones / Recup	Activa	Seguridad
+34492	Ana Carolina	Corea Gonzalez 		Centro: Operaciones / Recup	Activa	Seguridad
+34494	Jose Francisco	Siles Rivera 3877		Brisas: Cajas	Activa	Seguridad
+34496	Katherine Maria	Rodriguez Perez 3876		Sucursal Centro: Cajeros	Activa	Seguridad
+34498	Ana Carolina	Aleman Gradiz 3874		Altamira: Oficiales	Activa	Seguridad
+34499	Yamilka Nayiri	Ayerdis Zelaya 3872		Centro: Operaciones / Recup	Activa	Seguridad
+34500	Alexander Damian  	Guido Pineda 3851		Centro: Acceso General	Activa	Seguridad
+34501	Seydi Dayana	Lopez Rodriguez 3633		Centro: Operaciones / Recup	Activa	Seguridad
+34502	Ulises Gamaliel	Ramirez Hernandez 3863		Cedoc: Oficiales	Activa	Seguridad
+34503	Yahoska Rene	Cordero Rosales 3854		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34506	Mayra Luz 	Garcia Martinez 3853		Bolivar: Oficiales Ventas	Activa	Seguridad
+34507	Luisa Amanda	Cruz Tercero 3869		Centro: Operaciones / Recup	Activa	Seguridad
+34508	Kevin Ballardo	Urbina Bravo 3870		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34509	Kenia	Quintana Navarrete  3862		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34510	Kellin Rosana	Ramirez Aleman 3864		Centro: Back Office	Activa	Seguridad
+34511	Karla Johanna 	Alonso Chamorro 3856		Casa Bolonia: Recuperaciones	Activa	Seguridad
+34512	Jessel Edith 	Sanchez Lopez 3861		Centro II: Tecnologia	Activa	Seguridad
+34513	Gustavo Adolfo	Barreda Garcia 3866		Centro: Operaciones / Recup	Activa	Seguridad
+34514	Francisco Ariel 	Avellan Angulo 3858		Centro II: TC Oficiales	Activa	Seguridad
+34515	Fatima Sarahy 	Zelaya Bonilla 3860		Atrium: Sotano	Activa	Seguridad
+34516	Fabian Ernesto	Gutierrez Ramirez 3868		Centro: Operaciones / Recup	Activa	Seguridad
+34518	Alvaro Josue 	Meza Rojas 3859		Centro II: TC Oficiales	Activa	Seguridad
+34520	Adilia Georgina	Bermudez Cuadra 3865		Centro: Operaciones / Recup	Activa	Seguridad
+34521	Yader Octavio	Moraga Gaitan 3038		Centro II: Tecnologia	Activa	Seguridad
+34522	Guarda Ent Suc Centro I	ULTRANIC		Sucursal Centro: SSBB	Activa	Seguridad
+34523	Conserje	Bolivar		Bolivar: Oficiales Ventas	Activa	Seguridad
+34525	Leslie Carolina	Centeno Alvarez 3105		Juigalpa:  Cajas	Activa	Seguridad
+34526	Adelquis José	Chavarría Vallejos 3429		Juigalpa: Jefes	Activa	Seguridad
+34528	Brigida del Rosario 	Hernandez Granados 960		Juigalpa: Jefes	Activa	Seguridad
+34529	Orvin Antonio	Ferrera Ponce 3437		Somoto: Oficiales	Activa	Seguridad
+34530	Nestor Eliezer	Cajina Garcia 2604		Centro II: Tecnologia	Activa	Seguridad
+34531	Ronald 	Lopez Guevara138 		Matagalpa: Jefes	Activa	Seguridad
+34535	Mirna Arely       	Mena Valle 3847 		Sucursal Centro: Cajeros	Activa	Seguridad
+34538	Walquiria Margarita 	Aleman Silvia 3848 		Americas: oficiales	Activa	Seguridad
+34541	Eduardo Martin	Gutierrez Valle 1867		Atrium: Finanzas	Activa	Seguridad
+34542	Ivan 	Gradiz Mercado 2300		Somoto: SSBB	Activa	Seguridad
+34543	Amilcar Antonio	Larios Mendez 561		Somoto: Jefes	Activa	Seguridad
+34544	Juan Bautista 	Sacasa Gomez		Atrium: Presidencia	Activa	Seguridad
+34545	Conserje	Veracruz		Veracruz: Cafeteria	Activa	Seguridad
+34548	Adrian Alejandro	Roque Olivares 3842		Centro: Camara	Activa	Seguridad
+34550	Jardinero	Serlisa Atrium		Atrium: Sotano	Activa	Seguridad
+38315	Oscar Daniel	Toruño Lopez		Centro: Operaciones / Recup	Rastreo	Seguridad
+41426	Conserje 	Matagalpa		Matagalpa: SSBB	Activa	Seguridad
+42652	EDECAN	Lisdania Obando		Somoto: SSBB	Activa	Seguridad
+45108	Nadhiezda Paola	Pomarez Martinez		Bolivar: Oficiales Ventas	Activa	Seguridad
+47895	Ramon Efrain	Paguaga Ramos 890		Atrium: Sotano	Activa	Seguridad
+49077	Conserje	Rivas		Rivas: Oficilaes	Activa	Seguridad
+49080	Conserje	Esteli		Esteli: Cajeros	Activa	Seguridad
+49082	Conserje	Carretera Sur		Sur: Cafeteria	Activa	Seguridad
+49084	Keyla Varinia	Valle Arrollo		Centro: Riesgos	Activa	Seguridad
+49088	Carlos Jose	Flores Murillo 2167		Centro II: Tecnolog Soport  hw	Activa	Seguridad
+49095	Guarda Chinandega	Ultranic		Chinandega Oficiales	Inactiva	Seguridad
+49099	Soporte	GBM		Centro II: Tecnologia	Activa	Seguridad
+49121	Maria Cristina	Herrera Rodriguez 1614		Sucursal Centro: SSBB	Activa	Seguridad
+54228	Jaime	Delgado Cultrera		Centro II: Tecnologia	Activa	Seguridad
+60102	Jorge Mauricio	Morales Duarte		Centro II: Tecnologia especial	Activa	Seguridad
+60110	Hazel Maria	Davila Leiva 2115		Sebaco: Oficiales	Activa	Seguridad
+60127	Boris Ivan	Oduber Burillo		Atrium: Presidencia	Activa	Seguridad
+60128	Francisco Javier	Conto Diaz		Atrium: Presidencia	Activa	Seguridad
+60161	Arsenio	Cardenas		Atrium: Presidencia	Activa	Seguridad
+60195	Marlon Jesus	Perez Bustos 2499		Centro: Acceso General	Activa	Seguridad
+60203	Damaris Raquel	Solis Arostegui 2393		Centro: Operaciones / Recup	Activa	Seguridad
+60225	Marny	Saballos Paez 2418		Centro II: CAT	Activa	Seguridad
+60228	Jorge Luis	Detrinidad Blandino 1840		Centro: Operaciones / Recup	Activa	Seguridad
+60271	Norma Guadalupe	Maltez Tapia 1698		Atrium: Presidencia	Activa	Seguridad
+60272	Martha Lucia	Lechado Vargas 1321		Centro: Acceso General	Activa	Seguridad
+60294	Andres	Cardenal Castro		Atrium: Presidencia	Activa	Seguridad
+60307	Roberto Byron	Ibarra Fitoria		Juigalpa: Cafeteria	Activa	Seguridad
+60330	Rosaura	Montes Arandas		Atrium: Sotano	Activa	Seguridad
+60402	Ada Francina	Lopez Navas 2739 		Atrium: Presidencia	Activa	Seguridad
+60460	Zurama Tatiana	Corea Lopez 1250		Centro II: Tecnologia especial	Activa	Seguridad
+60461	Karen Sugey	Aguero Rodriguez		Atrium: Sotano	Activa	Seguridad
+60518	Juan Manuel	Escobar Montano		Sucursal Centro: SSBB	Activa	Seguridad
+60554	Jorge Alberto 	Manzanarez Flores		Tesoreria: Oficial Tesoreria	Activa	Seguridad
+60619	Mabel del Carmen	Peralta Tellez 2146		Atrium: Sotano	Activa	Seguridad
+60638	Santiago Alberto	Zuniga Rivera 1674		Centro II: Tecnologia	Activa	Seguridad
+60678	Carmen Maria	Urtecho Espinoza 2602		Centro: Acceso General	Activa	Seguridad
+60720	Heyssel Marisela	Vilchez Espinoza		Somoto: Oficiales	Activa	Seguridad
+60725	Renata Samanta	Chavarria Leiva		Matagalpa: Cajeros	Activa	Seguridad
+60773	Julio Bladimir	Miranda Mendez 2209		Centro: Camara	Activa	Seguridad
+60782	Juana	Jiron Arauz		Centro: UAIR	Activa	Seguridad
+60801	Alvaro Francisco	Roman Rocha 2202		Atrium: Sotano	Activa	Seguridad
+60805	Carlos Ernesto	Romero Rizo		Atrium: Sotano	Activa	Seguridad
+60806	Mariela 	Lacayo Urcuyo 2882 		Centro: Acceso General	Activa	Seguridad
+60819	Karina de Fatima	Brenes Hodgson		Atrium: Sotano	Activa	Seguridad
+60876	Pedro Leonel	Martinez Mejia 2143		Master	Activa	Seguridad
+60917	Edwin Roberto	Reyes Carcache		Centro II: TC Custodia	Activa	Seguridad
+60972	Juan Bautista 	Sacasa Gomez		Atrium: Presidencia	Inactiva	Seguridad
+60986	Oscar Geovany	Herrera		Centro: Operaciones / Recup	Activa	Seguridad
+61046	Augusto Jose	Sequeira Medina 2234		Casa Bolonia: Recuperaciones	Activa	Seguridad
+61058	Iris Janet	Noguera Mejia 1195		Centro: Riesgos	Activa	Seguridad
+61062	Paola de Lourdes	Romero Gomez		Atrium: Sotano	Activa	Seguridad
+61075	Lilliam Asmabeth	Bllorin Romero		Somoto: Oficiales	Activa	Seguridad
+61088	Oswaldo Felix	Mouynes Guaragna		Atrium: Presidencia	Activa	Seguridad
+61097	Anianka Indira	Pasquier Duarte 2027		Centro: Cumplimiento	Activa	Seguridad
+61140	Luis Rigoberto	Wilson Moreira 2698		Centro: Riesgos	Activa	Seguridad
