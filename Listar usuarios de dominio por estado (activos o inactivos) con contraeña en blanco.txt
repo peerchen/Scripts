@@ -1,0 +1,1 @@
+Get-WmiObject -computername localhost -class win32_UserAccount | Select-Object Name, Disabled, PasswordRequired, SID, SIDType | Where-Object {$_.PasswordRequired -eq 0} | format-table -groupby PasswordRequired |export-csv e:\localhost.csv -Delimiter ";"
